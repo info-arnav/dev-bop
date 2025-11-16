@@ -1,254 +1,191 @@
-# Dev Dashboard AI - Complete Setup Guide
+# 🛒 Next-Item Prediction System
 
-AI-driven dashboard that predicts the next product a user will purchase based on their shopping cart.
+AI-powered recommendation system that predicts the next product a customer will add to their cart based on their current shopping behavior. Built with PyTorch and deployed with FastAPI + React.
 
-## Project Structure
+## 🎯 Features
+
+- **Deep Learning Model**: 4.3M parameter neural network trained on 14M+ real grocery shopping sequences
+- **High Accuracy**: 34% top-10 accuracy, 23% top-5 accuracy on Instacart dataset
+- **Real-time Predictions**: Fast inference via FastAPI endpoint
+- **Interactive Dashboard**: React-based UI for visualizing predictions
+- **Production Ready**: Organized codebase with proper structure and documentation
+
+## 📊 Model Performance
+
+Trained on 1,094 high-frequency grocery products from Instacart dataset:
+- **Top-1 Accuracy**: 6.12%
+- **Top-5 Accuracy**: 23.00%
+- **Top-10 Accuracy**: 34.21%
+- **Model Size**: 16MB
+- **Training Data**: 14.2M shopping sequences from 204K users
+
+## 🏗️ Project Structure
 
 ```
 dev/
-├── backend/          # Python PyTorch model training & FastAPI server
-│   ├── .venv/       # Python virtual environment
-│   ├── models/      # Saved model checkpoints
-│   ├── api.py       # FastAPI server
-│   ├── model.py     # PyTorch model definitions
-│   ├── train.py     # Training script
-│   └── preprocess.py
-├── frontend/         # React + Vite dashboard (formerly dev-dashboard-ai)
+├── backend/
+│   ├── api.py                    # FastAPI server with /predict endpoint
+│   ├── model.py                  # PyTorch model architecture
+│   ├── train_instacart.py        # Main training script
+│   ├── scripts/                  # Utility scripts
+│   │   ├── generate_vocab_instacart.py
+│   │   ├── generate_all_products.py
+│   │   └── train.py (legacy)
+│   ├── data_processing/          # Data preprocessing
+│   │   ├── preprocess_instacart.py
+│   │   └── preprocess.py (legacy)
+│   └── models/                   # Saved model checkpoints
+│       ├── best_model.pt         # Trained model (16MB)
+│       ├── vocabulary.pkl        # Item vocabulary
+│       └── all_products.json     # Product metadata
+├── frontend/                     # React dashboard
 │   └── src/
-├── data/            # Training data
-│   └── events.csv   # E-commerce events (2.7M rows)
-└── start-dev.sh     # Start both backend and frontend
+│       ├── components/
+│       └── pages/
+├── data/                         # Instacart dataset (not in repo)
+└── LICENSE                       # MIT License
 ```
 
-## Quick Start
+## 🚀 Quick Start
 
-### 1. Backend Setup (Python + PyTorch)
+### 1. Backend Setup
 
 ```bash
 cd backend
-bash setup.sh
+bash setup.sh  # Creates .venv and installs dependencies
 ```
 
-This creates a virtual environment at `backend/.venv` and installs all dependencies.
+### 2. Run the API Server
 
-### 2. Train the Model
-
-Quick test (5% of data, ~2-5 minutes):
-```bash
-cd backend
-source .venv/bin/activate
-python train.py --epochs 3 --sample-frac 0.05 --batch-size 512
-```
-
-Full training (100% of data, ~1-2 hours):
-```bash
-python train.py --epochs 10
-```
-
-The trained model will be saved to `backend/models/best_model.pt`.
-
-### 3. Start Everything
-
-From the project root:
-
-```bash
-chmod +x start-dev.sh
-./start-dev.sh
-```
-
-This will:
-- Start the FastAPI backend on `http://localhost:8000`
-- Start the Vite frontend on `http://localhost:8080`
-- Wait for you to press Ctrl+C to stop both
-
-Or manually:
-
-**Terminal 1 - Backend:**
 ```bash
 cd backend
 source .venv/bin/activate
 python api.py
-# or: uvicorn api:app --reload --host 0.0.0.0 --port 8000
 ```
 
-**Terminal 2 - Frontend:**
+API will be available at `http://localhost:8000`
+
+### 3. Frontend Setup & Run
+
 ```bash
 cd frontend
-npm install  # first time only
+npm install  # First time only
 npm run dev
 ```
 
-### 4. Use the Dashboard
+Frontend will be available at `http://localhost:5173`
 
-1. Open `http://localhost:8080` in your browser
-2. Click the "Shop" tab
-3. Add products to your cart using the "Add to Cart" buttons
-4. Watch the **AI-Powered Next Purchase Predictions** section update automatically
-5. The model shows the top 10 products the user is most likely to purchase next, with confidence scores
+## 📡 API Endpoints
 
-## API Endpoints
+### POST `/predict`
+Get next-item predictions based on current cart.
 
-### POST /predict
-Get next-item predictions based on cart.
-
+**Request:**
 ```bash
 curl -X POST http://localhost:8000/predict \
   -H "Content-Type: application/json" \
   -d '{
-    "cart": [
-      {"product_id": "123", "quantity": 1},
-      {"product_id": "456", "quantity": 2}
-    ],
+    "product_ids": [24852, 13176, 21137],
     "top_k": 10
   }'
 ```
 
-Response:
+**Response:**
 ```json
 {
-  "next_item_predictions": [
+  "predictions": [
     {
-      "product_id": "789",
-      "probability": 0.234,
-      "score": 0.234
+      "product_id": 21903,
+      "name": "Organic Hass Avocado",
+      "aisle": "fresh fruits",
+      "department": "produce",
+      "score": 0.0234
     },
     ...
   ]
 }
 ```
 
-### GET /health
+### GET `/products`
+Get all available products in the model vocabulary.
+
+```bash
+curl http://localhost:8000/products
+```
+
+### GET `/health`
 Check API and model status.
 
 ```bash
 curl http://localhost:8000/health
 ```
 
-### GET /docs
+### GET `/docs`
 Interactive API documentation (Swagger UI):
 ```
 http://localhost:8000/docs
 ```
 
-## Development
+## 🔧 Training Your Own Model
 
-### Backend
+### Prerequisites
+Download the Instacart dataset from [Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis/data) and place CSV files in `data/instacart/` directory.
 
-**Activate virtual environment:**
+### Generate Vocabulary
 ```bash
 cd backend
 source .venv/bin/activate
+python scripts/generate_vocab_instacart.py
+python scripts/generate_all_products.py
 ```
 
-**Run with auto-reload:**
+### Train Model
 ```bash
-uvicorn api:app --reload
+python train_instacart.py
 ```
 
-**Retrain with different hyperparameters:**
-```bash
-python train.py \
-  --epochs 10 \
-  --embedding-dim 256 \
-  --hidden-dim 512 \
-  --batch-size 256 \
-  --lr 0.001
-```
+Training hyperparameters (in `train_instacart.py`):
+- **Embedding Dimension**: 512
+- **Hidden Dimension**: 1024
+- **Batch Size**: 4096
+- **Epochs**: 8
+- **Learning Rate**: 0.001
+- **Product Threshold**: 5000+ occurrences
 
-### Frontend
+Training takes ~25 minutes per epoch on M-series Mac with MPS acceleration.
 
-**Install dependencies:**
-```bash
-cd frontend
-npm install
-```
+## 🏛️ Architecture
 
-**Run dev server:**
-```bash
-npm run dev
-```
+### Model
+- **Type**: Deep MLP with residual connections
+- **Input**: Variable-length cart (padded to 20 items)
+- **Embedding**: 512-dimensional product embeddings
+- **Hidden Layers**: 3 layers with [1024, 512, 512] dimensions
+- **Output**: Softmax over 1,094 products
+- **Regularization**: BatchNorm + 0.4 Dropout
+- **Parameters**: 4.3M
 
-**Build for production:**
-```bash
-npm run build
-npm run preview
-```
+### Data Processing
+1. Filter products by frequency (5000+ occurrences)
+2. Create sliding windows from order sequences
+3. Convert product IDs to vocabulary indices
+4. Pad carts to fixed length (20 items)
+5. 80/20 train/validation split
 
-**Change API URL:**
-Edit `frontend/.env`:
-```
-VITE_API_URL=http://localhost:8000
-```
+## 📝 License
 
-## Model Details
+MIT License - see [LICENSE](LICENSE) file for details.
 
-**Architecture:**
-- Embedding-based next-item predictor
-- 128-dim item embeddings by default
-- Mean-pooling over cart items
-- 2-layer MLP with dropout
-- ~90M parameters (for 235K vocabulary)
+## 🤝 Contributing
 
-**Training Data:**
-- 2.7M e-commerce events (views, addtocart)
-- ~1.3M sessions from unique visitors
-- Creates 1.3M training examples (cart → next_item pairs)
+Pull requests are welcome! For major changes, please open an issue first.
 
-**Metrics:**
-- Top-1, Top-5, Top-10 accuracy
-- Model tracks validation loss across epochs
-- Best model saved based on validation loss
+## 📧 Contact
 
-**Performance:**
-- Training: ~5-10 minutes for 5% sample, ~1-2 hours full data (CPU)
-- Inference: <50ms per prediction
-- GPU acceleration automatic if available
+Arnav Gupta - [@info-arnav](https://github.com/info-arnav)
 
-## Files Generated
+Project Link: [https://github.com/info-arnav/dev-bop](https://github.com/info-arnav/dev-bop)
 
-After training:
-```
-backend/
-└── models/
-    ├── best_model.pt      # Best model checkpoint (saved during training)
-    ├── final_model.pt     # Final model after all epochs
-    └── vocabulary.pkl     # Item ID → index mappings
-```
-
-## Troubleshooting
-
-**"Model not loaded" error:**
-- Make sure you've trained the model first: `python train.py`
-- Check that `backend/models/best_model.pt` exists
-
-**CORS errors in browser:**
-- The backend allows all origins in dev mode
-- For production, update CORS settings in `backend/api.py`
-
-**Frontend can't connect to backend:**
-- Check backend is running: `curl http://localhost:8000/health`
-- Verify `.env` file has correct `VITE_API_URL`
-- Check browser console for errors
-
-**Training takes too long:**
-- Use `--sample-frac 0.1` for 10% of data
-- Reduce `--epochs` to 3-5
-- Increase `--batch-size` to 512 or 1024
-
-**Out of memory during training:**
-- Reduce `--batch-size` to 128 or 64
-- Use `--sample-frac` to train on less data
-- Close other applications
-
-## Next Steps
-
-1. **Improve model:**
-   - Try different architectures (RNN, Transformer)
-   - Add user embeddings for personalization
-   - Incorporate item features (category, price)
-
-2. **Add co-purchase predictions:**
-   - Implement association rules
    - Train CoPurchasePredictor model
    - Show in frontend UI
 

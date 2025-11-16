@@ -7,7 +7,7 @@ import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
 import numpy as np
 from model import NextItemPredictor
-from preprocess_instacart import InstacartPreprocessor
+from data_processing.preprocess_instacart import InstacartPreprocessor
 import time
 import os
 

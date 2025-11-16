@@ -4,9 +4,9 @@ Generate vocabulary from Instacart dataset.
 
 import sys
 import os
-sys.path.append(os.path.dirname(__file__))
+sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 
-from preprocess_instacart import InstacartPreprocessor
+from data_processing.preprocess_instacart import InstacartPreprocessor
 import json
 
 def main():
