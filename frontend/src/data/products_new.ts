@@ -1,5 +1,5 @@
-// Product data extracted from the new e-commerce dataset
-// This file is auto-generated from backend/models/products.json
+// Product data extracted from Instacart grocery dataset
+// This file is auto-generated from backend/models/all_products.json
 
 export interface Product {
   id: number;

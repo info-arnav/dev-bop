@@ -59,7 +59,7 @@ export const AccuracyChart = () => {
           </div>
           <div className="pt-4 border-t">
             <p className="text-sm text-muted-foreground">
-              Model trained on e-commerce dataset with real product interactions
+              Model trained on Instacart grocery dataset with 14.2M shopping sequences
             </p>
           </div>
         </div>

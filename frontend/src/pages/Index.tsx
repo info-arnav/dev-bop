@@ -103,7 +103,7 @@ const Index = () => {
             <div>
               <h2 className="text-2xl font-bold mb-2">Grocery Product Catalog</h2>
               <p className="text-muted-foreground mb-6">
-                Browse 49,000+ grocery products with real-time search and filters. Add items to see AI predictions!
+                Browse 1,094 high-frequency grocery products with real-time AI predictions. Add items to see recommendations!
               </p>
             </div>
             

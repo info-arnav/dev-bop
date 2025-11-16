@@ -1,5 +1,5 @@
-// Static product data from most popular items in events.csv
-// Generated from the backend training data
+// Static product data from most popular items in Instacart dataset
+// Generated from the backend training data (1,094 products)
 
 export interface Product {
   id: string;
