@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1005115,
+    "brand": "apple",
+    "price": 923.7113093289689,
+    "category": "electronics.smartphone",
+    "popularity": 6721
+  },
+  {
+    "id": 1004856,
+    "brand": "samsung",
+    "price": 127.2694230469359,
+    "category": "electronics.smartphone",
+    "popularity": 6413
+  },
+  {
+    "id": 1004767,
+    "brand": "samsung",
+    "price": 245.6259437751004,
+    "category": "electronics.smartphone",
+    "popularity": 5727
+  },
+  {
+    "id": 4804056,
+    "brand": "apple",
+    "price": 162.8533578493533,
+    "category": "electronics.audio.headphone",
+    "popularity": 3943
+  },
+  {
+    "id": 1005160,
+    "brand": "xiaomi",
+    "price": 202.39006483482558,
+    "category": "electronics.smartphone",
+    "popularity": 3239
+  },
+  {
+    "id": 1004870,
+    "brand": "samsung",
+    "price": 282.1396527131783,
+    "category": "electronics.smartphone",
+    "popularity": 3225
+  },
+  {
+    "id": 1005105,
+    "brand": "apple",
+    "price": 1351.5889960500328,
+    "category": "electronics.smartphone",
+    "popularity": 3038
+  },
+  {
+    "id": 1004833,
+    "brand": "samsung",
+    "price": 170.68908353060533,
+    "category": "electronics.smartphone",
+    "popularity": 2957
+  },
+  {
+    "id": 1004249,
+    "brand": "apple",
+    "price": 757.9636919831223,
+    "category": "electronics.smartphone",
+    "popularity": 2844
+  },
+  {
+    "id": 1002544,
+    "brand": "apple",
+    "price": 476.1821659159159,
+    "category": "electronics.smartphone",
+    "popularity": 2664
+  },
+  {
+    "id": 1005100,
+    "brand": "samsung",
+    "price": 136.2704429892142,
+    "category": "electronics.smartphone",
+    "popularity": 2596
+  },
+  {
+    "id": 1004873,
+    "brand": "samsung",
+    "price": 358.55037477954147,
+    "category": "electronics.smartphone",
+    "popularity": 2268
+  },
+  {
+    "id": 1004836,
+    "brand": "samsung",
+    "price": 230.2767877094972,
+    "category": "electronics.smartphone",
+    "popularity": 2148
+  },
+  {
+    "id": 1005239,
+    "brand": "xiaomi",
+    "price": 265.4373288654859,
+    "category": "electronics.smartphone",
+    "popularity": 2089
+  },
+  {
+    "id": 5100816,
+    "brand": "xiaomi",
+    "price": 31.077582697201017,
+    "category": "",
+    "popularity": 1965
+  },
+  {
+    "id": 1005116,
+    "brand": "apple",
+    "price": 995.3505549898167,
+    "category": "electronics.smartphone",
+    "popularity": 1964
+  },
+  {
+    "id": 1004785,
+    "brand": "huawei",
+    "price": 261.2061091954023,
+    "category": "electronics.smartphone",
+    "popularity": 1740
+  },
+  {
+    "id": 1004838,
+    "brand": "oppo",
+    "price": 162.50082843713278,
+    "category": "electronics.smartphone",
+    "popularity": 1702
+  },
+  {
+    "id": 4804718,
+    "brand": "apple",
+    "price": 344.5743989769821,
+    "category": "electronics.audio.headphone",
+    "popularity": 1564
+  },
+  {
+    "id": 1002524,
+    "brand": "apple",
+    "price": 550.7372018052869,
+    "category": "electronics.smartphone",
+    "popularity": 1551
+  },
+  {
+    "id": 1004741,
+    "brand": "xiaomi",
+    "price": 189.81604180274329,
+    "category": "electronics.smartphone",
+    "popularity": 1531
+  },
+  {
+    "id": 1004750,
+    "brand": "samsung",
+    "price": 194.65766666666664,
+    "category": "electronics.smartphone",
+    "popularity": 1530
+  },
+  {
+    "id": 1005135,
+    "brand": "apple",
+    "price": 1652.2025695364239,
+    "category": "electronics.smartphone",
+    "popularity": 1510
+  },
+  {
+    "id": 1005174,
+    "brand": "samsung",
+    "price": 640.1533042310275,
+    "category": "electronics.smartphone",
+    "popularity": 1489
+  },
+  {
+    "id": 1004659,
+    "brand": "samsung",
+    "price": 727.5110482180294,
+    "category": "electronics.smartphone",
+    "popularity": 1431
+  },
+  {
+    "id": 1004565,
+    "brand": "huawei",
+    "price": 167.9464985994398,
+    "category": "electronics.smartphone",
+    "popularity": 1428
+  },
+  {
+    "id": 1005161,
+    "brand": "xiaomi",
+    "price": 201.8696167494677,
+    "category": "electronics.smartphone",
+    "popularity": 1409
+  },
+  {
+    "id": 1801690,
+    "brand": "samsung",
+    "price": 391.1376119402985,
+    "category": "electronics.video.tv",
+    "popularity": 1407
+  },
+  {
+    "id": 4804055,
+    "brand": "apple",
+    "price": 196.82143772241992,
+    "category": "electronics.audio.headphone",
+    "popularity": 1405
+  },
+  {
+    "id": 1801766,
+    "brand": "artel",
+    "price": 152.4764054257724,
+    "category": "electronics.video.tv",
+    "popularity": 1327
+  },
+  {
+    "id": 4804295,
+    "brand": "xiaomi",
+    "price": 25.02367816091954,
+    "category": "electronics.audio.headphone",
+    "popularity": 1305
+  },
+  {
+    "id": 1005217,
+    "brand": "xiaomi",
+    "price": 146.91528830313015,
+    "category": "electronics.smartphone",
+    "popularity": 1214
+  },
+  {
+    "id": 1002633,
+    "brand": "apple",
+    "price": 379.4656213511259,
+    "category": "electronics.smartphone",
+    "popularity": 1199
+  },
+  {
+    "id": 1003317,
+    "brand": "apple",
+    "price": 955.6920338983051,
+    "category": "electronics.smartphone",
+    "popularity": 1180
+  },
+  {
+    "id": 1005253,
+    "brand": "xiaomi",
+    "price": 287.6040909090909,
+    "category": "electronics.smartphone",
+    "popularity": 1166
+  },
+  {
+    "id": 1005159,
+    "brand": "xiaomi",
+    "price": 202.25477547495683,
+    "category": "electronics.smartphone",
+    "popularity": 1158
+  },
+  {
+    "id": 1004768,
+    "brand": "samsung",
+    "price": 243.92384476534295,
+    "category": "electronics.smartphone",
+    "popularity": 1108
+  },
+  {
+    "id": 12703015,
+    "brand": "cordiant",
+    "price": 43.517733847637416,
+    "category": "",
+    "popularity": 1037
+  },
+  {
+    "id": 1003306,
+    "brand": "apple",
+    "price": 585.1106171648987,
+    "category": "electronics.smartphone",
+    "popularity": 1037
+  },
+  {
+    "id": 1004858,
+    "brand": "samsung",
+    "price": 127.2934637964775,
+    "category": "electronics.smartphone",
+    "popularity": 1022
+  },
+  {
+    "id": 1005203,
+    "brand": "xiaomi",
+    "price": 107.73109144542774,
+    "category": "electronics.smartphone",
+    "popularity": 1017
+  },
+  {
+    "id": 3600661,
+    "brand": "samsung",
+    "price": 307.6232178217822,
+    "category": "appliances.kitchen.washer",
+    "popularity": 1010
+  },
+  {
+    "id": 1004258,
+    "brand": "apple",
+    "price": 779.3324950099801,
+    "category": "electronics.smartphone",
+    "popularity": 1002
+  },
+  {
+    "id": 1005186,
+    "brand": "samsung",
+    "price": 757.4186558044806,
+    "category": "electronics.smartphone",
+    "popularity": 982
+  },
+  {
+    "id": 1004781,
+    "brand": "huawei",
+    "price": 260.0238638743456,
+    "category": "electronics.smartphone",
+    "popularity": 955
+  },
+  {
+    "id": 1005238,
+    "brand": "oppo",
+    "price": 304.6149894736842,
+    "category": "electronics.smartphone",
+    "popularity": 950
+  },
+  {
+    "id": 1801881,
+    "brand": "samsung",
+    "price": 524.4376849894292,
+    "category": "electronics.video.tv",
+    "popularity": 946
+  },
+  {
+    "id": 1005098,
+    "brand": "samsung",
+    "price": 136.42445770065078,
+    "category": "electronics.smartphone",
+    "popularity": 922
+  },
+  {
+    "id": 1005169,
+    "brand": "samsung",
+    "price": 204.0889525909592,
+    "category": "electronics.smartphone",
+    "popularity": 907
+  },
+  {
+    "id": 1005008,
+    "brand": "xiaomi",
+    "price": 93.73166480446928,
+    "category": "electronics.smartphone",
+    "popularity": 895
+  },
+  {
+    "id": 1005014,
+    "brand": "samsung",
+    "price": 490.11869127516775,
+    "category": "electronics.smartphone",
+    "popularity": 894
+  },
+  {
+    "id": 1005205,
+    "brand": "oppo",
+    "price": 235.61123595505617,
+    "category": "electronics.smartphone",
+    "popularity": 890
+  },
+  {
+    "id": 1004246,
+    "brand": "apple",
+    "price": 756.7337669683258,
+    "category": "electronics.smartphone",
+    "popularity": 884
+  },
+  {
+    "id": 4100346,
+    "brand": "sony",
+    "price": 364.5871276595745,
+    "category": "",
+    "popularity": 846
+  },
+  {
+    "id": 1004739,
+    "brand": "xiaomi",
+    "price": 196.13685646500593,
+    "category": "electronics.smartphone",
+    "popularity": 843
+  },
+  {
+    "id": 1005204,
+    "brand": "xiaomi",
+    "price": 145.6803485576923,
+    "category": "electronics.smartphone",
+    "popularity": 832
+  },
+  {
+    "id": 1004209,
+    "brand": "samsung",
+    "price": 89.00008505467801,
+    "category": "electronics.smartphone",
+    "popularity": 823
+  },
+  {
+    "id": 1004250,
+    "brand": "apple",
+    "price": 811.1139821882952,
+    "category": "electronics.smartphone",
+    "popularity": 786
+  },
+  {
+    "id": 4804660,
+    "brand": "xiaomi",
+    "price": 25.312831491712704,
+    "category": "electronics.audio.headphone",
+    "popularity": 724
+  },
+  {
+    "id": 4803977,
+    "brand": "samsung",
+    "price": 110.3346879334258,
+    "category": "electronics.audio.headphone",
+    "popularity": 721
+  },
+  {
+    "id": 12709380,
+    "brand": "viatti",
+    "price": 38.120000000000005,
+    "category": "",
+    "popularity": 720
+  },
+  {
+    "id": 1004766,
+    "brand": "samsung",
+    "price": 245.55478014184396,
+    "category": "electronics.smartphone",
+    "popularity": 705
+  },
+  {
+    "id": 3700926,
+    "brand": "samsung",
+    "price": 68.92616161616162,
+    "category": "appliances.environment.vacuum",
+    "popularity": 693
+  },
+  {
+    "id": 1005104,
+    "brand": "apple",
+    "price": 977.2736496350365,
+    "category": "electronics.smartphone",
+    "popularity": 685
+  },
+  {
+    "id": 1005212,
+    "brand": "samsung",
+    "price": 175.7215350877193,
+    "category": "electronics.smartphone",
+    "popularity": 684
+  },
+  {
+    "id": 1801929,
+    "brand": "samsung",
+    "price": 564.4526431718061,
+    "category": "electronics.video.tv",
+    "popularity": 681
+  },
+  {
+    "id": 1307073,
+    "brand": "acer",
+    "price": 707.5599704142012,
+    "category": "computers.notebook",
+    "popularity": 676
+  },
+  {
+    "id": 1005221,
+    "brand": "xiaomi",
+    "price": 284.95994011976046,
+    "category": "electronics.smartphone",
+    "popularity": 668
+  },
+  {
+    "id": 1005003,
+    "brand": "huawei",
+    "price": 238.51223241590213,
+    "category": "electronics.smartphone",
+    "popularity": 654
+  },
+  {
+    "id": 1004958,
+    "brand": "xiaomi",
+    "price": 338.15086021505374,
+    "category": "electronics.smartphone",
+    "popularity": 651
+  },
+  {
+    "id": 1005118,
+    "brand": "apple",
+    "price": 963.3232612055642,
+    "category": "electronics.smartphone",
+    "popularity": 647
+  },
+  {
+    "id": 1801805,
+    "brand": "artel",
+    "price": 239.4525581395349,
+    "category": "electronics.video.tv",
+    "popularity": 645
+  },
+  {
+    "id": 1005129,
+    "brand": "apple",
+    "price": 1319.8504680187207,
+    "category": "electronics.smartphone",
+    "popularity": 641
+  },
+  {
+    "id": 1005132,
+    "brand": "apple",
+    "price": 1323.68484375,
+    "category": "electronics.smartphone",
+    "popularity": 640
+  },
+  {
+    "id": 1004872,
+    "brand": "samsung",
+    "price": 285.558625,
+    "category": "electronics.smartphone",
+    "popularity": 640
+  },
+  {
+    "id": 12703494,
+    "brand": "cordiant",
+    "price": 41.387382445141064,
+    "category": "",
+    "popularity": 638
+  },
+  {
+    "id": 1307310,
+    "brand": "acer",
+    "price": 293.0541640378549,
+    "category": "computers.notebook",
+    "popularity": 634
+  },
+  {
+    "id": 1005119,
+    "brand": "apple",
+    "price": 1001.7266825396824,
+    "category": "electronics.smartphone",
+    "popularity": 630
+  },
+  {
+    "id": 1004708,
+    "brand": "huawei",
+    "price": 154.47928229665072,
+    "category": "electronics.smartphone",
+    "popularity": 627
+  },
+  {
+    "id": 1005031,
+    "brand": "xiaomi",
+    "price": 175.1479581993569,
+    "category": "electronics.smartphone",
+    "popularity": 622
+  },
+  {
+    "id": 22700129,
+    "brand": "stels",
+    "price": 68.18701782820096,
+    "category": "",
+    "popularity": 617
+  },
+  {
+    "id": 1002629,
+    "brand": "apple",
+    "price": 369.546464811784,
+    "category": "electronics.smartphone",
+    "popularity": 611
+  },
+  {
+    "id": 1005158,
+    "brand": "xiaomi",
+    "price": 290.8120394736842,
+    "category": "electronics.smartphone",
+    "popularity": 608
+  },
+  {
+    "id": 1005235,
+    "brand": "oppo",
+    "price": 440.0416724137931,
+    "category": "electronics.smartphone",
+    "popularity": 580
+  },
+  {
+    "id": 1004903,
+    "brand": "huawei",
+    "price": 110.78645328719723,
+    "category": "electronics.smartphone",
+    "popularity": 578
+  },
+  {
+    "id": 1005106,
+    "brand": "apple",
+    "price": 1441.9964459930313,
+    "category": "electronics.smartphone",
+    "popularity": 574
+  },
+  {
+    "id": 1004720,
+    "brand": "huawei",
+    "price": 126.01588339222616,
+    "category": "electronics.smartphone",
+    "popularity": 566
+  },
+  {
+    "id": 1005102,
+    "brand": "xiaomi",
+    "price": 438.1777183600713,
+    "category": "electronics.smartphone",
+    "popularity": 561
+  },
+  {
+    "id": 1005177,
+    "brand": "samsung",
+    "price": 884.9206785714287,
+    "category": "electronics.smartphone",
+    "popularity": 560
+  },
+  {
+    "id": 1004857,
+    "brand": "samsung",
+    "price": 127.063345323741,
+    "category": "electronics.smartphone",
+    "popularity": 556
+  },
+  {
+    "id": 3600666,
+    "brand": "samsung",
+    "price": 321.7953597122302,
+    "category": "appliances.kitchen.washer",
+    "popularity": 556
+  },
+  {
+    "id": 1801739,
+    "brand": "samsung",
+    "price": 299.78971171171173,
+    "category": "electronics.video.tv",
+    "popularity": 555
+  },
+  {
+    "id": 1004839,
+    "brand": "oppo",
+    "price": 160.15375451263537,
+    "category": "electronics.smartphone",
+    "popularity": 554
+  },
+  {
+    "id": 1005073,
+    "brand": "samsung",
+    "price": 1156.7031657355678,
+    "category": "electronics.smartphone",
+    "popularity": 537
+  },
+  {
+    "id": 5100855,
+    "brand": "apple",
+    "price": 560.4876226415095,
+    "category": "electronics.clocks",
+    "popularity": 530
+  },
+  {
+    "id": 1005121,
+    "brand": "apple",
+    "price": 951.3537735849056,
+    "category": "electronics.smartphone",
+    "popularity": 530
+  },
+  {
+    "id": 22700084,
+    "brand": "force",
+    "price": 247.31540642722118,
+    "category": "",
+    "popularity": 529
+  },
+  {
+    "id": 1004237,
+    "brand": "apple",
+    "price": 1118.9749905482042,
+    "category": "electronics.smartphone",
+    "popularity": 529
+  },
+  {
+    "id": 2702277,
+    "brand": "lg",
+    "price": 466.3158541266795,
+    "category": "appliances.kitchen.refrigerators",
+    "popularity": 521
+  },
+  {
+    "id": 6000094,
+    "brand": "starline",
+    "price": 122.55420743639921,
+    "category": "auto.accessories.alarm",
+    "popularity": 511
+  },
+  {
+    "id": 1005124,
+    "brand": "apple",
+    "price": 1571.4932149901379,
+    "category": "electronics.smartphone",
+    "popularity": 507
+  },
+  {
+    "id": 12703498,
+    "brand": "cordiant",
+    "price": 41.48231075697211,
+    "category": "",
+    "popularity": 502
+  },
+  {
+    "id": 1005099,
+    "brand": "samsung",
+    "price": 136.17531697341514,
+    "category": "electronics.smartphone",
+    "popularity": 489
+  },
+  {
+    "id": 1003316,
+    "brand": "apple",
+    "price": 954.739344262295,
+    "category": "electronics.smartphone",
+    "popularity": 488
+  },
+  {
+    "id": 1004875,
+    "brand": "samsung",
+    "price": 360.18643442622954,
+    "category": "electronics.smartphone",
+    "popularity": 488
+  },
+  {
+    "id": 1004834,
+    "brand": "samsung",
+    "price": 171.31219008264463,
+    "category": "electronics.smartphone",
+    "popularity": 484
+  },
+  {
+    "id": 1004566,
+    "brand": "huawei",
+    "price": 165.3994409937888,
+    "category": "electronics.smartphone",
+    "popularity": 483
+  },
+  {
+    "id": 15100009,
+    "brand": "",
+    "price": 330.76473684210526,
+    "category": "",
+    "popularity": 475
+  },
+  {
+    "id": 1003310,
+    "brand": "apple",
+    "price": 745.3380210526316,
+    "category": "electronics.smartphone",
+    "popularity": 475
+  },
+  {
+    "id": 1004227,
+    "brand": "apple",
+    "price": 1003.5053375527425,
+    "category": "electronics.smartphone",
+    "popularity": 474
+  },
+  {
+    "id": 12702930,
+    "brand": "cordiant",
+    "price": 36.70684549356223,
+    "category": "",
+    "popularity": 466
+  },
+  {
+    "id": 1307076,
+    "brand": "asus",
+    "price": 671.2705627705627,
+    "category": "computers.notebook",
+    "popularity": 462
+  },
+  {
+    "id": 1004871,
+    "brand": "samsung",
+    "price": 281.08616883116883,
+    "category": "electronics.smartphone",
+    "popularity": 462
+  },
+  {
+    "id": 3601603,
+    "brand": "lg",
+    "price": 371.9424347826087,
+    "category": "appliances.kitchen.washer",
+    "popularity": 460
+  },
+  {
+    "id": 1802037,
+    "brand": "lg",
+    "price": 293.22765625,
+    "category": "electronics.video.tv",
+    "popularity": 448
+  },
+  {
+    "id": 4802036,
+    "brand": "apple",
+    "price": 182.4504697986577,
+    "category": "electronics.audio.headphone",
+    "popularity": 447
+  },
+  {
+    "id": 1801882,
+    "brand": "samsung",
+    "price": 446.2421573033708,
+    "category": "electronics.video.tv",
+    "popularity": 445
+  },
+  {
+    "id": 3601405,
+    "brand": "beko",
+    "price": 180.28632054176072,
+    "category": "appliances.kitchen.washer",
+    "popularity": 443
+  },
+  {
+    "id": 1005144,
+    "brand": "apple",
+    "price": 1642.9627990970655,
+    "category": "electronics.smartphone",
+    "popularity": 443
+  },
+  {
+    "id": 1307188,
+    "brand": "hp",
+    "price": 223.27737556561084,
+    "category": "computers.notebook",
+    "popularity": 442
+  },
+  {
+    "id": 1801623,
+    "brand": "lg",
+    "price": 384.32419134396355,
+    "category": "electronics.video.tv",
+    "popularity": 439
+  },
+  {
+    "id": 8801100,
+    "brand": "nokia",
+    "price": 95.94344748858448,
+    "category": "electronics.telephone",
+    "popularity": 438
+  },
+  {
+    "id": 5100577,
+    "brand": "samsung",
+    "price": 290.7800229357798,
+    "category": "electronics.clocks",
+    "popularity": 436
+  },
+  {
+    "id": 1002532,
+    "brand": "apple",
+    "price": 593.748202764977,
+    "category": "electronics.smartphone",
+    "popularity": 434
+  },
+  {
+    "id": 1004849,
+    "brand": "huawei",
+    "price": 928.6893953488373,
+    "category": "electronics.smartphone",
+    "popularity": 430
+  },
+  {
+    "id": 3601437,
+    "brand": "lg",
+    "price": 388.042534883721,
+    "category": "appliances.kitchen.washer",
+    "popularity": 430
+  },
+  {
+    "id": 1005062,
+    "brand": "xiaomi",
+    "price": 174.94815850815849,
+    "category": "electronics.smartphone",
+    "popularity": 429
+  },
+  {
+    "id": 4804572,
+    "brand": "apple",
+    "price": 210.2979906542056,
+    "category": "electronics.audio.headphone",
+    "popularity": 428
+  },
+  {
+    "id": 3700766,
+    "brand": "samsung",
+    "price": 136.24046838407494,
+    "category": "appliances.environment.vacuum",
+    "popularity": 427
+  },
+  {
+    "id": 26400194,
+    "brand": "",
+    "price": 250.45999999999998,
+    "category": "",
+    "popularity": 420
+  },
+  {
+    "id": 5100337,
+    "brand": "apple",
+    "price": 345.40968973747016,
+    "category": "electronics.clocks",
+    "popularity": 419
+  },
+  {
+    "id": 1801849,
+    "brand": "samsung",
+    "price": 645.982076372315,
+    "category": "electronics.video.tv",
+    "popularity": 419
+  },
+  {
+    "id": 3600163,
+    "brand": "indesit",
+    "price": 184.7541247002398,
+    "category": "appliances.kitchen.washer",
+    "popularity": 417
+  },
+  {
+    "id": 1004653,
+    "brand": "samsung",
+    "price": 602.2607090464547,
+    "category": "electronics.smartphone",
+    "popularity": 409
+  },
+  {
+    "id": 1005107,
+    "brand": "apple",
+    "price": 1008.740955882353,
+    "category": "electronics.smartphone",
+    "popularity": 408
+  },
+  {
+    "id": 1307187,
+    "brand": "acer",
+    "price": 870.3200980392156,
+    "category": "computers.notebook",
+    "popularity": 408
+  },
+  {
+    "id": 12707153,
+    "brand": "",
+    "price": 32.69,
+    "category": "",
+    "popularity": 398
+  },
+  {
+    "id": 1005195,
+    "brand": "xiaomi",
+    "price": 107.23186397984887,
+    "category": "electronics.smartphone",
+    "popularity": 397
+  },
+  {
+    "id": 1005101,
+    "brand": "xiaomi",
+    "price": 437.1697455470738,
+    "category": "electronics.smartphone",
+    "popularity": 393
+  },
+  {
+    "id": 1003712,
+    "brand": "samsung",
+    "price": 617.2222646310432,
+    "category": "electronics.smartphone",
+    "popularity": 393
+  },
+  {
+    "id": 1004665,
+    "brand": "samsung",
+    "price": 831.304884910486,
+    "category": "electronics.smartphone",
+    "popularity": 391
+  },
+  {
+    "id": 1005006,
+    "brand": "xiaomi",
+    "price": 85.66284615384616,
+    "category": "electronics.smartphone",
+    "popularity": 390
+  },
+  {
+    "id": 1004709,
+    "brand": "huawei",
+    "price": 148.64104,
+    "category": "electronics.smartphone",
+    "popularity": 375
+  },
+  {
+    "id": 1005165,
+    "brand": "xiaomi",
+    "price": 294.1506133333333,
+    "category": "electronics.smartphone",
+    "popularity": 375
+  },
+  {
+    "id": 1004794,
+    "brand": "xiaomi",
+    "price": 219.65187165775401,
+    "category": "electronics.smartphone",
+    "popularity": 374
+  },
+  {
+    "id": 1004886,
+    "brand": "oppo",
+    "price": 135.6386327077748,
+    "category": "electronics.smartphone",
+    "popularity": 373
+  },
+  {
+    "id": 1002547,
+    "brand": "apple",
+    "price": 489.8942587601078,
+    "category": "electronics.smartphone",
+    "popularity": 371
+  },
+  {
+    "id": 1004957,
+    "brand": "xiaomi",
+    "price": 333.61829268292684,
+    "category": "electronics.smartphone",
+    "popularity": 369
+  },
+  {
+    "id": 1004874,
+    "brand": "samsung",
+    "price": 355.5290217391304,
+    "category": "electronics.smartphone",
+    "popularity": 368
+  },
+  {
+    "id": 1004863,
+    "brand": "samsung",
+    "price": 170.62513661202186,
+    "category": "electronics.smartphone",
+    "popularity": 366
+  },
+  {
+    "id": 1005284,
+    "brand": "samsung",
+    "price": 2478.2437534246574,
+    "category": "electronics.smartphone",
+    "popularity": 365
+  },
+  {
+    "id": 3701084,
+    "brand": "xiaomi",
+    "price": 448.9136438356165,
+    "category": "appliances.environment.vacuum",
+    "popularity": 365
+  },
+  {
+    "id": 5100376,
+    "brand": "xiaomi",
+    "price": 68.98266483516483,
+    "category": "electronics.clocks",
+    "popularity": 364
+  },
+  {
+    "id": 1005112,
+    "brand": "apple",
+    "price": 967.8598898071625,
+    "category": "electronics.smartphone",
+    "popularity": 363
+  },
+  {
+    "id": 1201504,
+    "brand": "samsung",
+    "price": 150.55085872576177,
+    "category": "electronics.tablet",
+    "popularity": 361
+  },
+  {
+    "id": 1004835,
+    "brand": "samsung",
+    "price": 230.0306406685237,
+    "category": "electronics.smartphone",
+    "popularity": 359
+  },
+  {
+    "id": 5100566,
+    "brand": "apple",
+    "price": 468.35212464589233,
+    "category": "electronics.clocks",
+    "popularity": 353
+  },
+  {
+    "id": 5100719,
+    "brand": "samsung",
+    "price": 152.52068376068377,
+    "category": "electronics.clocks",
+    "popularity": 351
+  },
+  {
+    "id": 1005017,
+    "brand": "huawei",
+    "price": 87.56568965517242,
+    "category": "electronics.smartphone",
+    "popularity": 348
+  },
+  {
+    "id": 3601524,
+    "brand": "samsung",
+    "price": 398.83120943952804,
+    "category": "appliances.kitchen.washer",
+    "popularity": 339
+  },
+  {
+    "id": 3601522,
+    "brand": "lg",
+    "price": 299.7292330383481,
+    "category": "appliances.kitchen.washer",
+    "popularity": 339
+  },
+  {
+    "id": 1005015,
+    "brand": "samsung",
+    "price": 506.49845697329374,
+    "category": "electronics.smartphone",
+    "popularity": 337
+  },
+  {
+    "id": 1307067,
+    "brand": "lenovo",
+    "price": 254.9607121661721,
+    "category": "computers.notebook",
+    "popularity": 337
+  },
+  {
+    "id": 2601299,
+    "brand": "dauscher",
+    "price": 441.3490178571428,
+    "category": "",
+    "popularity": 336
+  },
+  {
+    "id": 1005182,
+    "brand": "samsung",
+    "price": 1013.3581492537313,
+    "category": "electronics.smartphone",
+    "popularity": 335
+  },
+  {
+    "id": 5100503,
+    "brand": "xiaomi",
+    "price": 24.434504504504503,
+    "category": "",
+    "popularity": 333
+  },
+  {
+    "id": 2900958,
+    "brand": "arg",
+    "price": 58.76628398791541,
+    "category": "appliances.kitchen.microwave",
+    "popularity": 331
+  },
+  {
+    "id": 3700621,
+    "brand": "vitek",
+    "price": 113.1059696969697,
+    "category": "appliances.environment.vacuum",
+    "popularity": 330
+  },
+  {
+    "id": 1005252,
+    "brand": "oppo",
+    "price": 302.9344984802432,
+    "category": "electronics.smartphone",
+    "popularity": 329
+  },
+  {
+    "id": 1004795,
+    "brand": "xiaomi",
+    "price": 220.43405487804876,
+    "category": "electronics.smartphone",
+    "popularity": 328
+  },
+  {
+    "id": 1005166,
+    "brand": "xiaomi",
+    "price": 287.79969418960246,
+    "category": "electronics.smartphone",
+    "popularity": 327
+  },
+  {
+    "id": 15100337,
+    "brand": "",
+    "price": 278.79678899082563,
+    "category": "",
+    "popularity": 327
+  },
+  {
+    "id": 1004961,
+    "brand": "oppo",
+    "price": 160.40926380368097,
+    "category": "electronics.smartphone",
+    "popularity": 326
+  },
+  {
+    "id": 1005168,
+    "brand": "samsung",
+    "price": 205.0803374233129,
+    "category": "electronics.smartphone",
+    "popularity": 326
+  },
+  {
+    "id": 3701134,
+    "brand": "bosch",
+    "price": 105.08092592592592,
+    "category": "appliances.environment.vacuum",
+    "popularity": 324
+  },
+  {
+    "id": 3601489,
+    "brand": "samsung",
+    "price": 487.91965838509316,
+    "category": "appliances.kitchen.washer",
+    "popularity": 322
+  },
+  {
+    "id": 1005256,
+    "brand": "xiaomi",
+    "price": 133.43415625,
+    "category": "electronics.smartphone",
+    "popularity": 320
+  },
+  {
+    "id": 1002528,
+    "brand": "apple",
+    "price": 575.6146249999999,
+    "category": "electronics.smartphone",
+    "popularity": 320
+  },
+  {
+    "id": 5100572,
+    "brand": "apple",
+    "price": 444.5359748427673,
+    "category": "electronics.clocks",
+    "popularity": 318
+  },
+  {
+    "id": 12711053,
+    "brand": "tunga",
+    "price": 33.140378548895896,
+    "category": "",
+    "popularity": 317
+  },
+  {
+    "id": 1307545,
+    "brand": "lenovo",
+    "price": 255.7967845659164,
+    "category": "computers.notebook",
+    "popularity": 311
+  },
+  {
+    "id": 4100126,
+    "brand": "sony",
+    "price": 345.0301935483871,
+    "category": "",
+    "popularity": 310
+  },
+  {
+    "id": 4100129,
+    "brand": "sony",
+    "price": 473.0388064516129,
+    "category": "",
+    "popularity": 310
+  },
+  {
+    "id": 15100367,
+    "brand": "",
+    "price": 499.10999999999996,
+    "category": "",
+    "popularity": 309
+  },
+  {
+    "id": 15100350,
+    "brand": "",
+    "price": 333.87701298701296,
+    "category": "",
+    "popularity": 308
+  },
+  {
+    "id": 1004226,
+    "brand": "apple",
+    "price": 997.3389250814332,
+    "category": "electronics.smartphone",
+    "popularity": 307
+  },
+  {
+    "id": 22700068,
+    "brand": "force",
+    "price": 96.9821568627451,
+    "category": "",
+    "popularity": 306
+  },
+  {
+    "id": 17300136,
+    "brand": "montale",
+    "price": 96.43885620915032,
+    "category": "",
+    "popularity": 306
+  },
+  {
+    "id": 3601485,
+    "brand": "lg",
+    "price": 314.77990131578946,
+    "category": "appliances.kitchen.washer",
+    "popularity": 304
+  },
+  {
+    "id": 1005007,
+    "brand": "xiaomi",
+    "price": 93.7129605263158,
+    "category": "electronics.smartphone",
+    "popularity": 304
+  },
+  {
+    "id": 1005157,
+    "brand": "xiaomi",
+    "price": 273.65734219269103,
+    "category": "electronics.smartphone",
+    "popularity": 301
+  },
+  {
+    "id": 1004749,
+    "brand": "samsung",
+    "price": 195.00976744186048,
+    "category": "electronics.smartphone",
+    "popularity": 301
+  },
+  {
+    "id": 5701166,
+    "brand": "",
+    "price": 144.11576666666667,
+    "category": "auto.accessories.player",
+    "popularity": 300
+  },
+  {
+    "id": 1003304,
+    "brand": "apple",
+    "price": 593.7211705685619,
+    "category": "electronics.smartphone",
+    "popularity": 299
+  },
+  {
+    "id": 6000227,
+    "brand": "starline",
+    "price": 159.7982608695652,
+    "category": "auto.accessories.alarm",
+    "popularity": 299
+  },
+  {
+    "id": 1801806,
+    "brand": "artel",
+    "price": 121.30140939597315,
+    "category": "electronics.video.tv",
+    "popularity": 298
+  },
+  {
+    "id": 1801940,
+    "brand": "haier",
+    "price": 228.2920608108108,
+    "category": "electronics.video.tv",
+    "popularity": 296
+  },
+  {
+    "id": 1307004,
+    "brand": "lenovo",
+    "price": 295.47996610169497,
+    "category": "computers.notebook",
+    "popularity": 295
+  },
+  {
+    "id": 3700779,
+    "brand": "xiaomi",
+    "price": 294.8880338983051,
+    "category": "appliances.environment.vacuum",
+    "popularity": 295
+  },
+  {
+    "id": 3701244,
+    "brand": "elenberg",
+    "price": 33.404659863945575,
+    "category": "appliances.environment.vacuum",
+    "popularity": 294
+  },
+  {
+    "id": 1801691,
+    "brand": "samsung",
+    "price": 478.5461643835617,
+    "category": "electronics.video.tv",
+    "popularity": 292
+  },
+  {
+    "id": 1801995,
+    "brand": "haier",
+    "price": 179.27241379310345,
+    "category": "electronics.video.tv",
+    "popularity": 290
+  },
+  {
+    "id": 12709558,
+    "brand": "",
+    "price": 31.159446366782007,
+    "category": "",
+    "popularity": 289
+  },
+  {
+    "id": 1200947,
+    "brand": "samsung",
+    "price": 106.13349480968859,
+    "category": "electronics.tablet",
+    "popularity": 289
+  },
+  {
+    "id": 1004210,
+    "brand": "samsung",
+    "price": 88.91508710801394,
+    "category": "electronics.smartphone",
+    "popularity": 287
+  },
+  {
+    "id": 1003800,
+    "brand": "apple",
+    "price": 811.7847552447553,
+    "category": "electronics.smartphone",
+    "popularity": 286
+  },
+  {
+    "id": 16500007,
+    "brand": "omron",
+    "price": 62.790212014134276,
+    "category": "",
+    "popularity": 283
+  },
+  {
+    "id": 1002540,
+    "brand": "apple",
+    "price": 478.9467021276596,
+    "category": "electronics.smartphone",
+    "popularity": 282
+  },
+  {
+    "id": 26400266,
+    "brand": "lucente",
+    "price": 119.18,
+    "category": "",
+    "popularity": 280
+  },
+  {
+    "id": 1003312,
+    "brand": "apple",
+    "price": 738.2739711191336,
+    "category": "electronics.smartphone",
+    "popularity": 277
+  },
+  {
+    "id": 1307229,
+    "brand": "lenovo",
+    "price": 891.4473550724638,
+    "category": "computers.notebook",
+    "popularity": 276
+  },
+  {
+    "id": 4700478,
+    "brand": "sho-me",
+    "price": 141.20727272727274,
+    "category": "auto.accessories.videoregister",
+    "popularity": 275
+  },
+  {
+    "id": 1005236,
+    "brand": "oppo",
+    "price": 232.85872262773722,
+    "category": "electronics.smartphone",
+    "popularity": 274
+  },
+  {
+    "id": 26300078,
+    "brand": "lucente",
+    "price": 316.1,
+    "category": "",
+    "popularity": 273
+  },
+  {
+    "id": 1005130,
+    "brand": "apple",
+    "price": 1528.6465185185184,
+    "category": "electronics.smartphone",
+    "popularity": 270
+  },
+  {
+    "id": 12703493,
+    "brand": "cordiant",
+    "price": 41.35598513011153,
+    "category": "",
+    "popularity": 269
+  },
+  {
+    "id": 1005266,
+    "brand": "xiaomi",
+    "price": 128.86438661710037,
+    "category": "electronics.smartphone",
+    "popularity": 269
+  },
+  {
+    "id": 1004792,
+    "brand": "xiaomi",
+    "price": 478.572734082397,
+    "category": "electronics.smartphone",
+    "popularity": 267
+  },
+  {
+    "id": 15100008,
+    "brand": "bts",
+    "price": 511.0723308270676,
+    "category": "",
+    "popularity": 266
+  },
+  {
+    "id": 26300079,
+    "brand": "lucente",
+    "price": 343.12,
+    "category": "",
+    "popularity": 265
+  },
+  {
+    "id": 1004133,
+    "brand": "xiaomi",
+    "price": 141.91630188679244,
+    "category": "electronics.smartphone",
+    "popularity": 265
+  },
+  {
+    "id": 1004433,
+    "brand": "samsung",
+    "price": 327.70878787878786,
+    "category": "electronics.smartphone",
+    "popularity": 264
+  },
+  {
+    "id": 3700748,
+    "brand": "samsung",
+    "price": 108.88574144486692,
+    "category": "appliances.environment.vacuum",
+    "popularity": 263
+  },
+  {
+    "id": 1004840,
+    "brand": "huawei",
+    "price": 930.5585877862595,
+    "category": "electronics.smartphone",
+    "popularity": 262
+  },
+  {
+    "id": 1005002,
+    "brand": "huawei",
+    "price": 243.64851145038168,
+    "category": "electronics.smartphone",
+    "popularity": 262
+  },
+  {
+    "id": 1004904,
+    "brand": "huawei",
+    "price": 107.01400763358778,
+    "category": "electronics.smartphone",
+    "popularity": 262
+  },
+  {
+    "id": 1005069,
+    "brand": "vivo",
+    "price": 307.18249042145595,
+    "category": "electronics.smartphone",
+    "popularity": 261
+  },
+  {
+    "id": 1004788,
+    "brand": "xiaomi",
+    "price": 141.53580769230769,
+    "category": "electronics.smartphone",
+    "popularity": 260
+  },
+  {
+    "id": 14701435,
+    "brand": "",
+    "price": 202.1746923076923,
+    "category": "furniture.living_room.cabinet",
+    "popularity": 260
+  },
+  {
+    "id": 1003879,
+    "brand": "huawei",
+    "price": 583.0444015444016,
+    "category": "electronics.smartphone",
+    "popularity": 259
+  },
+  {
+    "id": 3601250,
+    "brand": "samsung",
+    "price": 347.23861003861003,
+    "category": "appliances.kitchen.washer",
+    "popularity": 259
+  },
+  {
+    "id": 1802038,
+    "brand": "tcl",
+    "price": 181.4608527131783,
+    "category": "electronics.video.tv",
+    "popularity": 258
+  },
+  {
+    "id": 22300003,
+    "brand": "xiaomi",
+    "price": 76.28782945736434,
+    "category": "",
+    "popularity": 258
+  },
+  {
+    "id": 1801704,
+    "brand": "samsung",
+    "price": 417.24688715953306,
+    "category": "electronics.video.tv",
+    "popularity": 257
+  },
+  {
+    "id": 1005072,
+    "brand": "samsung",
+    "price": 976.9347265625,
+    "category": "electronics.smartphone",
+    "popularity": 256
+  },
+  {
+    "id": 4300077,
+    "brand": "timberk",
+    "price": 39.458431372549015,
+    "category": "",
+    "popularity": 255
+  },
+  {
+    "id": 1004888,
+    "brand": "samsung",
+    "price": 231.8566929133858,
+    "category": "electronics.smartphone",
+    "popularity": 254
+  },
+  {
+    "id": 1005263,
+    "brand": "oppo",
+    "price": 694.9528063241106,
+    "category": "electronics.smartphone",
+    "popularity": 253
+  },
+  {
+    "id": 1004247,
+    "brand": "apple",
+    "price": 840.6374703557312,
+    "category": "electronics.smartphone",
+    "popularity": 253
+  },
+  {
+    "id": 12705001,
+    "brand": "cordiant",
+    "price": 42.06652173913044,
+    "category": "",
+    "popularity": 253
+  },
+  {
+    "id": 3600182,
+    "brand": "midea",
+    "price": 125.76373015873016,
+    "category": "appliances.kitchen.washer",
+    "popularity": 252
+  },
+  {
+    "id": 26400756,
+    "brand": "",
+    "price": 325.36,
+    "category": "",
+    "popularity": 251
+  },
+  {
+    "id": 1005162,
+    "brand": "xiaomi",
+    "price": 278.7917529880478,
+    "category": "electronics.smartphone",
+    "popularity": 251
+  },
+  {
+    "id": 15700176,
+    "brand": "bts",
+    "price": 248.44899999999998,
+    "category": "",
+    "popularity": 250
+  },
+  {
+    "id": 1004259,
+    "brand": "apple",
+    "price": 829.25676,
+    "category": "electronics.smartphone",
+    "popularity": 250
+  },
+  {
+    "id": 26300189,
+    "brand": "lucente",
+    "price": 351.1,
+    "category": "",
+    "popularity": 250
+  },
+  {
+    "id": 10301494,
+    "brand": "welly",
+    "price": 5.77,
+    "category": "",
+    "popularity": 249
+  },
+  {
+    "id": 1480163,
+    "brand": "acer",
+    "price": 629.006907630522,
+    "category": "computers.desktop",
+    "popularity": 249
+  },
+  {
+    "id": 1307539,
+    "brand": "asus",
+    "price": 475.66315789473686,
+    "category": "computers.notebook",
+    "popularity": 247
+  },
+  {
+    "id": 4803879,
+    "brand": "xiaomi",
+    "price": 69.28121457489878,
+    "category": "electronics.audio.headphone",
+    "popularity": 247
+  },
+  {
+    "id": 12713435,
+    "brand": "tunga",
+    "price": 34.97203252032521,
+    "category": "",
+    "popularity": 246
+  },
+  {
+    "id": 1005211,
+    "brand": "samsung",
+    "price": 177.43489795918367,
+    "category": "electronics.smartphone",
+    "popularity": 245
+  },
+  {
+    "id": 2500566,
+    "brand": "asel",
+    "price": 47.33155102040816,
+    "category": "appliances.kitchen.oven",
+    "popularity": 245
+  },
+  {
+    "id": 5100610,
+    "brand": "apple",
+    "price": 316.29860655737707,
+    "category": "electronics.clocks",
+    "popularity": 244
+  },
+  {
+    "id": 3700127,
+    "brand": "lg",
+    "price": 193.24901234567903,
+    "category": "appliances.environment.vacuum",
+    "popularity": 243
+  },
+  {
+    "id": 3700580,
+    "brand": "thomas",
+    "price": 327.13349794238684,
+    "category": "appliances.environment.vacuum",
+    "popularity": 243
+  },
+  {
+    "id": 1306650,
+    "brand": "acer",
+    "price": 426.0773553719008,
+    "category": "computers.notebook",
+    "popularity": 242
+  },
+  {
+    "id": 12718062,
+    "brand": "",
+    "price": 31.455371900826446,
+    "category": "",
+    "popularity": 242
+  },
+  {
+    "id": 1005021,
+    "brand": "oppo",
+    "price": 387.85995867768594,
+    "category": "electronics.smartphone",
+    "popularity": 242
+  },
+  {
+    "id": 5100564,
+    "brand": "samsung",
+    "price": 268.13169421487606,
+    "category": "electronics.clocks",
+    "popularity": 242
+  },
+  {
+    "id": 17200570,
+    "brand": "",
+    "price": 459.33182572614106,
+    "category": "furniture.living_room.sofa",
+    "popularity": 241
+  },
+  {
+    "id": 12709556,
+    "brand": "viatti",
+    "price": 40.16,
+    "category": "",
+    "popularity": 240
+  },
+  {
+    "id": 16000004,
+    "brand": "rondell",
+    "price": 41.8,
+    "category": "",
+    "popularity": 240
+  },
+  {
+    "id": 1801901,
+    "brand": "samsung",
+    "price": 649.6089958158997,
+    "category": "electronics.video.tv",
+    "popularity": 239
+  },
+  {
+    "id": 22700128,
+    "brand": "stels",
+    "price": 66.83087866108787,
+    "category": "",
+    "popularity": 239
+  },
+  {
+    "id": 3500009,
+    "brand": "bosch",
+    "price": 283.12564853556484,
+    "category": "",
+    "popularity": 239
+  },
+  {
+    "id": 5100562,
+    "brand": "apple",
+    "price": 325.4759832635984,
+    "category": "electronics.clocks",
+    "popularity": 239
+  },
+  {
+    "id": 1005122,
+    "brand": "apple",
+    "price": 1018.2478991596639,
+    "category": "electronics.smartphone",
+    "popularity": 238
+  },
+  {
+    "id": 22700078,
+    "brand": "stels",
+    "price": 176.57361344537813,
+    "category": "",
+    "popularity": 238
+  },
+  {
+    "id": 2701683,
+    "brand": "beko",
+    "price": 225.41714285714286,
+    "category": "appliances.kitchen.refrigerators",
+    "popularity": 238
+  },
+  {
+    "id": 1801555,
+    "brand": "lg",
+    "price": 458.5083474576271,
+    "category": "electronics.video.tv",
+    "popularity": 236
+  },
+  {
+    "id": 3601438,
+    "brand": "beko",
+    "price": 213.4935744680851,
+    "category": "appliances.kitchen.washer",
+    "popularity": 235
+  },
+  {
+    "id": 1307135,
+    "brand": "hp",
+    "price": 261.91559829059827,
+    "category": "computers.notebook",
+    "popularity": 234
+  },
+  {
+    "id": 1002101,
+    "brand": "samsung",
+    "price": 383.19467811158796,
+    "category": "electronics.smartphone",
+    "popularity": 233
+  },
+  {
+    "id": 22700127,
+    "brand": "stels",
+    "price": 100.6271551724138,
+    "category": "",
+    "popularity": 232
+  },
+  {
+    "id": 3601505,
+    "brand": "samsung",
+    "price": 494.6754741379311,
+    "category": "appliances.kitchen.washer",
+    "popularity": 232
+  },
+  {
+    "id": 12702958,
+    "brand": "cordiant",
+    "price": 42.59304347826087,
+    "category": "",
+    "popularity": 230
+  },
+  {
+    "id": 3300349,
+    "brand": "redmond",
+    "price": 70.67291304347826,
+    "category": "",
+    "popularity": 230
+  },
+  {
+    "id": 3700278,
+    "brand": "samsung",
+    "price": 69.31347826086957,
+    "category": "appliances.environment.vacuum",
+    "popularity": 230
+  },
+  {
+    "id": 1004934,
+    "brand": "vivo",
+    "price": 214.47698689956331,
+    "category": "electronics.smartphone",
+    "popularity": 229
+  },
+  {
+    "id": 1004238,
+    "brand": "apple",
+    "price": 1257.8157894736842,
+    "category": "electronics.smartphone",
+    "popularity": 228
+  },
+  {
+    "id": 1801539,
+    "brand": "lg",
+    "price": 444.77951541850217,
+    "category": "electronics.video.tv",
+    "popularity": 227
+  },
+  {
+    "id": 12706655,
+    "brand": "nokian",
+    "price": 45.83242290748899,
+    "category": "",
+    "popularity": 227
+  },
+  {
+    "id": 1004751,
+    "brand": "samsung",
+    "price": 194.80778761061947,
+    "category": "electronics.smartphone",
+    "popularity": 226
+  },
+  {
+    "id": 5801656,
+    "brand": "element",
+    "price": 131.79999999999998,
+    "category": "electronics.audio.subwoofer",
+    "popularity": 226
+  },
+  {
+    "id": 3701016,
+    "brand": "tefal",
+    "price": 122.57353982300884,
+    "category": "appliances.environment.vacuum",
+    "popularity": 226
+  },
+  {
+    "id": 28716666,
+    "brand": "respect",
+    "price": 89.84,
+    "category": "apparel.shoes",
+    "popularity": 226
+  },
+  {
+    "id": 1004505,
+    "brand": "xiaomi",
+    "price": 532.3274336283185,
+    "category": "electronics.smartphone",
+    "popularity": 226
+  },
+  {
+    "id": 5000475,
+    "brand": "janome",
+    "price": 171.8263111111111,
+    "category": "appliances.sewing_machine",
+    "popularity": 225
+  },
+  {
+    "id": 4804409,
+    "brand": "elari",
+    "price": 64.89346666666667,
+    "category": "electronics.audio.headphone",
+    "popularity": 225
+  },
+  {
+    "id": 3601448,
+    "brand": "lg",
+    "price": 441.6643111111111,
+    "category": "appliances.kitchen.washer",
+    "popularity": 225
+  },
+  {
+    "id": 1307341,
+    "brand": "asus",
+    "price": 617.75,
+    "category": "computers.notebook",
+    "popularity": 224
+  },
+  {
+    "id": 1801960,
+    "brand": "haier",
+    "price": 331.4974107142857,
+    "category": "electronics.video.tv",
+    "popularity": 224
+  },
+  {
+    "id": 3700709,
+    "brand": "karcher",
+    "price": 116.01470852017937,
+    "category": "appliances.environment.vacuum",
+    "popularity": 223
+  },
+  {
+    "id": 1307050,
+    "brand": "apple",
+    "price": 1575.668744394619,
+    "category": "computers.notebook",
+    "popularity": 223
+  },
+  {
+    "id": 2601500,
+    "brand": "artel",
+    "price": 119.73242152466368,
+    "category": "",
+    "popularity": 223
+  },
+  {
+    "id": 1005141,
+    "brand": "apple",
+    "price": 1621.888789237668,
+    "category": "electronics.smartphone",
+    "popularity": 223
+  },
+  {
+    "id": 1002536,
+    "brand": "apple",
+    "price": 588.635294117647,
+    "category": "electronics.smartphone",
+    "popularity": 221
+  },
+  {
+    "id": 1802008,
+    "brand": "lg",
+    "price": 670.5223981900451,
+    "category": "electronics.video.tv",
+    "popularity": 221
+  },
+  {
+    "id": 1004564,
+    "brand": "meizu",
+    "price": 127.99325791855203,
+    "category": "electronics.smartphone",
+    "popularity": 221
+  },
+  {
+    "id": 1801631,
+    "brand": "artel",
+    "price": 333.4475454545455,
+    "category": "electronics.video.tv",
+    "popularity": 220
+  },
+  {
+    "id": 5100718,
+    "brand": "samsung",
+    "price": 154.04254545454546,
+    "category": "electronics.clocks",
+    "popularity": 220
+  },
+  {
+    "id": 1005136,
+    "brand": "apple",
+    "price": 1986.9651363636365,
+    "category": "electronics.smartphone",
+    "popularity": 220
+  },
+  {
+    "id": 1004887,
+    "brand": "oppo",
+    "price": 134.21215596330276,
+    "category": "electronics.smartphone",
+    "popularity": 218
+  },
+  {
+    "id": 5100852,
+    "brand": "apple",
+    "price": 531.1571100917431,
+    "category": "electronics.clocks",
+    "popularity": 218
+  },
+  {
+    "id": 2701657,
+    "brand": "beko",
+    "price": 237.72387096774193,
+    "category": "appliances.kitchen.refrigerators",
+    "popularity": 217
+  },
+  {
+    "id": 12703415,
+    "brand": "cordiant",
+    "price": 49.38231481481481,
+    "category": "",
+    "popularity": 216
+  },
+  {
+    "id": 1307589,
+    "brand": "lenovo",
+    "price": 253.13393518518515,
+    "category": "computers.notebook",
+    "popularity": 216
+  },
+  {
+    "id": 12709709,
+    "brand": "cordiant",
+    "price": 36.39897196261682,
+    "category": "",
+    "popularity": 214
+  },
+  {
+    "id": 1800931,
+    "brand": "sony",
+    "price": 401.9217757009346,
+    "category": "electronics.video.tv",
+    "popularity": 214
+  },
+  {
+    "id": 1004956,
+    "brand": "xiaomi",
+    "price": 372.3364018691589,
+    "category": "electronics.smartphone",
+    "popularity": 214
+  },
+  {
+    "id": 4803878,
+    "brand": "xiaomi",
+    "price": 45.67070093457944,
+    "category": "electronics.audio.headphone",
+    "popularity": 214
+  },
+  {
+    "id": 1004777,
+    "brand": "xiaomi",
+    "price": 156.92253521126761,
+    "category": "electronics.smartphone",
+    "popularity": 213
+  },
+  {
+    "id": 1802005,
+    "brand": "lg",
+    "price": 455.4043127962085,
+    "category": "electronics.video.tv",
+    "popularity": 211
+  },
+  {
+    "id": 38900019,
+    "brand": "",
+    "price": 100.39,
+    "category": "",
+    "popularity": 211
+  },
+  {
+    "id": 30000048,
+    "brand": "",
+    "price": 118.70957345971564,
+    "category": "construction.tools.welding",
+    "popularity": 211
+  },
+  {
+    "id": 11400268,
+    "brand": "xiaomi",
+    "price": 20.851809523809525,
+    "category": "",
+    "popularity": 210
+  },
+  {
+    "id": 1801908,
+    "brand": "samsung",
+    "price": 838.1565865384616,
+    "category": "electronics.video.tv",
+    "popularity": 208
+  },
+  {
+    "id": 2701646,
+    "brand": "indesit",
+    "price": 267.8580193236715,
+    "category": "appliances.kitchen.refrigerators",
+    "popularity": 207
+  },
+  {
+    "id": 1004848,
+    "brand": "huawei",
+    "price": 666.502995169082,
+    "category": "electronics.smartphone",
+    "popularity": 207
+  },
+  {
+    "id": 1005167,
+    "brand": "xiaomi",
+    "price": 293.09160975609757,
+    "category": "electronics.smartphone",
+    "popularity": 205
+  },
+  {
+    "id": 26300084,
+    "brand": "lucente",
+    "price": 510.17999999999995,
+    "category": "",
+    "popularity": 205
+  },
+  {
+    "id": 2601810,
+    "brand": "artel",
+    "price": 155.65779411764706,
+    "category": "",
+    "popularity": 204
+  },
+  {
+    "id": 1005230,
+    "brand": "apple",
+    "price": 885.3844607843137,
+    "category": "electronics.smartphone",
+    "popularity": 204
+  },
+  {
+    "id": 2700598,
+    "brand": "indesit",
+    "price": 313.49648514851486,
+    "category": "appliances.kitchen.refrigerators",
+    "popularity": 202
+  },
+  {
+    "id": 1005246,
+    "brand": "nokia",
+    "price": 308.3062686567164,
+    "category": "electronics.smartphone",
+    "popularity": 201
+  },
+  {
+    "id": 54900013,
+    "brand": "",
+    "price": 51.48,
+    "category": "apparel.costume",
+    "popularity": 200
+  },
+  {
+    "id": 1801689,
+    "brand": "samsung",
+    "price": 266.93435,
+    "category": "electronics.video.tv",
+    "popularity": 200
+  },
+  {
+    "id": 1004158,
+    "brand": "samsung",
+    "price": 743.2299499999999,
+    "category": "electronics.smartphone",
+    "popularity": 200
+  },
+  {
+    "id": 1004723,
+    "brand": "huawei",
+    "price": 126.01434343434343,
+    "category": "electronics.smartphone",
+    "popularity": 198
+  },
+  {
+    "id": 1003318,
+    "brand": "apple",
+    "price": 1059.35923857868,
+    "category": "electronics.smartphone",
+    "popularity": 197
+  },
+  {
+    "id": 1004655,
+    "brand": "samsung",
+    "price": 752.5515736040609,
+    "category": "electronics.smartphone",
+    "popularity": 197
+  },
+  {
+    "id": 3100640,
+    "brand": "redmond",
+    "price": 53.33270408163265,
+    "category": "appliances.kitchen.blender",
+    "popularity": 196
+  },
+  {
+    "id": 8800773,
+    "brand": "nokia",
+    "price": 76.6388775510204,
+    "category": "electronics.telephone",
+    "popularity": 196
+  },
+  {
+    "id": 1004993,
+    "brand": "oneplus",
+    "price": 540.6357948717948,
+    "category": "electronics.smartphone",
+    "popularity": 195
+  },
+  {
+    "id": 3700912,
+    "brand": "samsung",
+    "price": 117.49494845360825,
+    "category": "appliances.environment.vacuum",
+    "popularity": 194
+  },
+  {
+    "id": 5100721,
+    "brand": "huawei",
+    "price": 185.9687113402062,
+    "category": "electronics.clocks",
+    "popularity": 194
+  },
+  {
+    "id": 1005232,
+    "brand": "xiaomi",
+    "price": 115.99984536082475,
+    "category": "electronics.smartphone",
+    "popularity": 194
+  },
+  {
+    "id": 3600165,
+    "brand": "indesit",
+    "price": 173.44427835051545,
+    "category": "appliances.kitchen.washer",
+    "popularity": 194
+  },
+  {
+    "id": 1005113,
+    "brand": "apple",
+    "price": 1030.0478756476684,
+    "category": "electronics.smartphone",
+    "popularity": 193
+  },
+  {
+    "id": 1802022,
+    "brand": "samsung",
+    "price": 476.79010362694305,
+    "category": "electronics.video.tv",
+    "popularity": 193
+  },
+  {
+    "id": 5100563,
+    "brand": "samsung",
+    "price": 265.213125,
+    "category": "electronics.clocks",
+    "popularity": 192
+  },
+  {
+    "id": 1201465,
+    "brand": "samsung",
+    "price": 235.69369791666668,
+    "category": "electronics.tablet",
+    "popularity": 192
+  },
+  {
+    "id": 1005143,
+    "brand": "apple",
+    "price": 1466.5534031413613,
+    "category": "electronics.smartphone",
+    "popularity": 191
+  },
+  {
+    "id": 1005209,
+    "brand": "apple",
+    "price": 456.8404712041885,
+    "category": "electronics.smartphone",
+    "popularity": 191
+  },
+  {
+    "id": 2501799,
+    "brand": "elenberg",
+    "price": 44.30429319371728,
+    "category": "appliances.kitchen.oven",
+    "popularity": 191
+  },
+  {
+    "id": 22700202,
+    "brand": "stels",
+    "price": 175.0273821989529,
+    "category": "",
+    "popularity": 191
+  },
+  {
+    "id": 1004902,
+    "brand": "oppo",
+    "price": 567.2133507853404,
+    "category": "electronics.smartphone",
+    "popularity": 191
+  },
+  {
+    "id": 22700067,
+    "brand": "force",
+    "price": 88.48926315789473,
+    "category": "",
+    "popularity": 190
+  },
+  {
+    "id": 2702331,
+    "brand": "lg",
+    "price": 529.7138421052631,
+    "category": "appliances.kitchen.refrigerators",
+    "popularity": 190
+  },
+  {
+    "id": 5100551,
+    "brand": "xiaomi",
+    "price": 165.36368421052632,
+    "category": "electronics.clocks",
+    "popularity": 190
+  },
+  {
+    "id": 1004495,
+    "brand": "meizu",
+    "price": 69.0098947368421,
+    "category": "electronics.smartphone",
+    "popularity": 190
+  },
+  {
+    "id": 1004748,
+    "brand": "huawei",
+    "price": 126.01396825396824,
+    "category": "electronics.smartphone",
+    "popularity": 189
+  },
+  {
+    "id": 10300150,
+    "brand": "silverlit",
+    "price": 6.942222222222222,
+    "category": "",
+    "popularity": 189
+  },
+  {
+    "id": 16400204,
+    "brand": "granhel",
+    "price": 181.21,
+    "category": "",
+    "popularity": 189
+  },
+  {
+    "id": 1307401,
+    "brand": "asus",
+    "price": 295.4715425531915,
+    "category": "computers.notebook",
+    "popularity": 188
+  },
+  {
+    "id": 1304409,
+    "brand": "apple",
+    "price": 1437.9560638297871,
+    "category": "computers.notebook",
+    "popularity": 188
+  },
+  {
+    "id": 3701088,
+    "brand": "bosch",
+    "price": 101.1944680851064,
+    "category": "appliances.environment.vacuum",
+    "popularity": 188
+  },
+  {
+    "id": 1801904,
+    "brand": "samsung",
+    "price": 510.1155319148936,
+    "category": "electronics.video.tv",
+    "popularity": 188
+  },
+  {
+    "id": 1802033,
+    "brand": "kivi",
+    "price": 153.94882978723402,
+    "category": "electronics.video.tv",
+    "popularity": 188
+  },
+  {
+    "id": 4000169,
+    "brand": "tefal",
+    "price": 101.77,
+    "category": "construction.tools.generator",
+    "popularity": 187
+  },
+  {
+    "id": 6300680,
+    "brand": "redmond",
+    "price": 31.328663101604278,
+    "category": "appliances.kitchen.kettle",
+    "popularity": 187
+  },
+  {
+    "id": 3100034,
+    "brand": "braun",
+    "price": 53.53037634408602,
+    "category": "appliances.kitchen.blender",
+    "popularity": 186
+  },
+  {
+    "id": 7004492,
+    "brand": "belecoo",
+    "price": 101.12537634408602,
+    "category": "kids.carriage",
+    "popularity": 186
+  },
+  {
+    "id": 3700677,
+    "brand": "tefal",
+    "price": 145.55795698924732,
+    "category": "appliances.environment.vacuum",
+    "popularity": 186
+  },
+  {
+    "id": 5100375,
+    "brand": "xiaomi",
+    "price": 70.42188172043011,
+    "category": "electronics.clocks",
+    "popularity": 186
+  },
+  {
+    "id": 15100145,
+    "brand": "lider",
+    "price": 380.4372972972973,
+    "category": "",
+    "popularity": 185
+  },
+  {
+    "id": 1307069,
+    "brand": "acer",
+    "price": 518.1415675675674,
+    "category": "computers.notebook",
+    "popularity": 185
+  },
+  {
+    "id": 26300088,
+    "brand": "lucente",
+    "price": 185.33,
+    "category": "",
+    "popularity": 185
+  },
+  {
+    "id": 3601343,
+    "brand": "samsung",
+    "price": 437.5221621621621,
+    "category": "appliances.kitchen.washer",
+    "popularity": 185
+  },
+  {
+    "id": 3601605,
+    "brand": "lg",
+    "price": 347.8377837837838,
+    "category": "appliances.kitchen.washer",
+    "popularity": 185
+  },
+  {
+    "id": 5701128,
+    "brand": "",
+    "price": 51.53578378378378,
+    "category": "auto.accessories.player",
+    "popularity": 185
+  },
+  {
+    "id": 3700777,
+    "brand": "samsung",
+    "price": 180.008,
+    "category": "appliances.environment.vacuum",
+    "popularity": 185
+  },
+  {
+    "id": 1307236,
+    "brand": "lenovo",
+    "price": 340.2745652173913,
+    "category": "computers.notebook",
+    "popularity": 184
+  },
+  {
+    "id": 2701305,
+    "brand": "samsung",
+    "price": 546.3667391304348,
+    "category": "appliances.kitchen.refrigerators",
+    "popularity": 184
+  },
+  {
+    "id": 26400672,
+    "brand": "lucente",
+    "price": 385.85,
+    "category": "",
+    "popularity": 184
+  },
+  {
+    "id": 22700193,
+    "brand": "stels",
+    "price": 83.53282608695653,
+    "category": "",
+    "popularity": 184
+  },
+  {
+    "id": 1002545,
+    "brand": "apple",
+    "price": 591.748087431694,
+    "category": "electronics.smartphone",
+    "popularity": 183
+  },
+  {
+    "id": 1307240,
+    "brand": "asus",
+    "price": 385.60174863387977,
+    "category": "computers.notebook",
+    "popularity": 183
+  },
+  {
+    "id": 3701222,
+    "brand": "xiaomi",
+    "price": 453.141693989071,
+    "category": "appliances.environment.vacuum",
+    "popularity": 183
+  },
+  {
+    "id": 1005064,
+    "brand": "xiaomi",
+    "price": 181.51622950819672,
+    "category": "electronics.smartphone",
+    "popularity": 183
+  },
+  {
+    "id": 6000157,
+    "brand": "starline",
+    "price": 92.74273224043716,
+    "category": "auto.accessories.alarm",
+    "popularity": 183
+  },
+  {
+    "id": 2601779,
+    "brand": "artel",
+    "price": 174.81824175824175,
+    "category": "",
+    "popularity": 182
+  },
+  {
+    "id": 3200173,
+    "brand": "",
+    "price": 56.34834254143646,
+    "category": "appliances.kitchen.meat_grinder",
+    "popularity": 181
+  },
+  {
+    "id": 3701005,
+    "brand": "philips",
+    "price": 339.13458563535914,
+    "category": "appliances.environment.vacuum",
+    "popularity": 181
+  },
+  {
+    "id": 4300149,
+    "brand": "polaris",
+    "price": 33.76933701657459,
+    "category": "",
+    "popularity": 181
+  },
+  {
+    "id": 1305977,
+    "brand": "apple",
+    "price": 2541.954972375691,
+    "category": "computers.notebook",
+    "popularity": 181
+  },
+  {
+    "id": 1005004,
+    "brand": "huawei",
+    "price": 239.95580110497238,
+    "category": "electronics.smartphone",
+    "popularity": 181
+  },
+  {
+    "id": 5300453,
+    "brand": "rowenta",
+    "price": 58.94055555555555,
+    "category": "",
+    "popularity": 180
+  },
+  {
+    "id": 2800505,
+    "brand": "",
+    "price": 206.15155555555555,
+    "category": "appliances.kitchen.refrigerators",
+    "popularity": 180
+  },
+  {
+    "id": 5701086,
+    "brand": "pioneer",
+    "price": 130.60972067039106,
+    "category": "auto.accessories.player",
+    "popularity": 179
+  },
+  {
+    "id": 1005171,
+    "brand": "samsung",
+    "price": 205.3950837988827,
+    "category": "electronics.smartphone",
+    "popularity": 179
+  },
+  {
+    "id": 3700869,
+    "brand": "samsung",
+    "price": 92.01617977528089,
+    "category": "appliances.environment.vacuum",
+    "popularity": 178
+  },
+  {
+    "id": 1005173,
+    "brand": "samsung",
+    "price": 639.7398305084746,
+    "category": "electronics.smartphone",
+    "popularity": 177
+  },
+  {
+    "id": 1004990,
+    "brand": "oppo",
+    "price": 241.9649717514124,
+    "category": "electronics.smartphone",
+    "popularity": 177
+  },
+  {
+    "id": 1005288,
+    "brand": "xiaomi",
+    "price": 254.00502824858756,
+    "category": "electronics.smartphone",
+    "popularity": 177
+  },
+  {
+    "id": 12718063,
+    "brand": "",
+    "price": 34.16887005649718,
+    "category": "",
+    "popularity": 177
+  },
+  {
+    "id": 1004322,
+    "brand": "huawei",
+    "price": 344.08536723163843,
+    "category": "electronics.smartphone",
+    "popularity": 177
+  },
+  {
+    "id": 12706259,
+    "brand": "nokian",
+    "price": 54.11221590909091,
+    "category": "",
+    "popularity": 176
+  },
+  {
+    "id": 5300157,
+    "brand": "philips",
+    "price": 38.04732954545455,
+    "category": "",
+    "popularity": 176
+  },
+  {
+    "id": 1003533,
+    "brand": "samsung",
+    "price": 463.58520000000004,
+    "category": "electronics.smartphone",
+    "popularity": 175
+  },
+  {
+    "id": 17200651,
+    "brand": "",
+    "price": 461.44275862068963,
+    "category": "furniture.living_room.sofa",
+    "popularity": 174
+  },
+  {
+    "id": 1004946,
+    "brand": "oneplus",
+    "price": 735.0094252873563,
+    "category": "electronics.smartphone",
+    "popularity": 174
+  },
+  {
+    "id": 3600231,
+    "brand": "midea",
+    "price": 102.79224137931034,
+    "category": "appliances.kitchen.washer",
+    "popularity": 174
+  },
+  {
+    "id": 21401211,
+    "brand": "casio",
+    "price": 78.47431034482759,
+    "category": "electronics.clocks",
+    "popularity": 174
+  },
+  {
+    "id": 1307136,
+    "brand": "acer",
+    "price": 512.4689595375722,
+    "category": "computers.notebook",
+    "popularity": 173
+  },
+  {
+    "id": 10701101,
+    "brand": "ea",
+    "price": 63.31976878612716,
+    "category": "",
+    "popularity": 173
+  },
+  {
+    "id": 5701002,
+    "brand": "pioneer",
+    "price": 57.835953757225425,
+    "category": "auto.accessories.player",
+    "popularity": 173
+  },
+  {
+    "id": 12709953,
+    "brand": "triangle",
+    "price": 48.09994186046511,
+    "category": "",
+    "popularity": 172
+  },
+  {
+    "id": 4100151,
+    "brand": "sony",
+    "price": 400.6521637426901,
+    "category": "",
+    "popularity": 171
+  },
+  {
+    "id": 1306359,
+    "brand": "acer",
+    "price": 658.4492352941177,
+    "category": "computers.notebook",
+    "popularity": 170
+  },
+  {
+    "id": 2900569,
+    "brand": "lg",
+    "price": 103.81141176470588,
+    "category": "appliances.kitchen.microwave",
+    "popularity": 170
+  },
+  {
+    "id": 1005225,
+    "brand": "samsung",
+    "price": 177.78405882352942,
+    "category": "electronics.smartphone",
+    "popularity": 170
+  },
+  {
+    "id": 3601212,
+    "brand": "lg",
+    "price": 397.07858823529415,
+    "category": "appliances.kitchen.washer",
+    "popularity": 170
+  },
+  {
+    "id": 1002634,
+    "brand": "apple",
+    "price": 391.40982352941177,
+    "category": "electronics.smartphone",
+    "popularity": 170
+  },
+  {
+    "id": 12703410,
+    "brand": "cordiant",
+    "price": 47.84235294117647,
+    "category": "",
+    "popularity": 170
+  },
+  {
+    "id": 3700907,
+    "brand": "karcher",
+    "price": 117.70305882352942,
+    "category": "appliances.environment.vacuum",
+    "popularity": 170
+  },
+  {
+    "id": 1003319,
+    "brand": "apple",
+    "price": 1067.090177514793,
+    "category": "electronics.smartphone",
+    "popularity": 169
+  },
+  {
+    "id": 1005074,
+    "brand": "samsung",
+    "price": 1185.8141420118343,
+    "category": "electronics.smartphone",
+    "popularity": 169
+  },
+  {
+    "id": 3700338,
+    "brand": "samsung",
+    "price": 66.8008875739645,
+    "category": "appliances.environment.vacuum",
+    "popularity": 169
+  },
+  {
+    "id": 1201297,
+    "brand": "apple",
+    "price": 385.67639053254436,
+    "category": "electronics.tablet",
+    "popularity": 169
+  },
+  {
+    "id": 2601260,
+    "brand": "dauscher",
+    "price": 456.5510059171597,
+    "category": "",
+    "popularity": 169
+  },
+  {
+    "id": 4803976,
+    "brand": "samsung",
+    "price": 123.20579881656803,
+    "category": "electronics.audio.headphone",
+    "popularity": 169
+  },
+  {
+    "id": 15100106,
+    "brand": "imperial",
+    "price": 679.1478571428571,
+    "category": "",
+    "popularity": 168
+  },
+  {
+    "id": 3900003,
+    "brand": "ariston",
+    "price": 115.98327380952381,
+    "category": "appliances.environment.water_heater",
+    "popularity": 168
+  },
+  {
+    "id": 5100861,
+    "brand": "samsung",
+    "price": 399.01976190476194,
+    "category": "electronics.clocks",
+    "popularity": 168
+  },
+  {
+    "id": 1005133,
+    "brand": "apple",
+    "price": 1552.2294610778445,
+    "category": "electronics.smartphone",
+    "popularity": 167
+  },
+  {
+    "id": 1005192,
+    "brand": "meizu",
+    "price": 205.67,
+    "category": "electronics.smartphone",
+    "popularity": 167
+  },
+  {
+    "id": 1004255,
+    "brand": "apple",
+    "price": 791.6183832335329,
+    "category": "electronics.smartphone",
+    "popularity": 167
+  },
+  {
+    "id": 28720831,
+    "brand": "",
+    "price": 94.98,
+    "category": "apparel.shoes",
+    "popularity": 166
+  },
+  {
+    "id": 1002525,
+    "brand": "apple",
+    "price": 720.452530120482,
+    "category": "electronics.smartphone",
+    "popularity": 166
+  },
+  {
+    "id": 16400198,
+    "brand": "",
+    "price": 102.96000000000001,
+    "category": "",
+    "popularity": 166
+  },
+  {
+    "id": 3600545,
+    "brand": "samsung",
+    "price": 577.8230120481927,
+    "category": "appliances.kitchen.washer",
+    "popularity": 166
+  },
+  {
+    "id": 12703300,
+    "brand": "cordiant",
+    "price": 65.70121212121211,
+    "category": "",
+    "popularity": 165
+  },
+  {
+    "id": 5100853,
+    "brand": "apple",
+    "price": 525.1472121212121,
+    "category": "electronics.clocks",
+    "popularity": 165
+  },
+  {
+    "id": 1004243,
+    "brand": "apple",
+    "price": 769.0855151515152,
+    "category": "electronics.smartphone",
+    "popularity": 165
+  },
+  {
+    "id": 1480494,
+    "brand": "acer",
+    "price": 894.9490853658536,
+    "category": "computers.desktop",
+    "popularity": 164
+  },
+  {
+    "id": 1500258,
+    "brand": "epson",
+    "price": 268.61091463414635,
+    "category": "computers.peripherals.printer",
+    "popularity": 164
+  },
+  {
+    "id": 21400996,
+    "brand": "casio",
+    "price": 79.91609756097562,
+    "category": "electronics.clocks",
+    "popularity": 164
+  },
+  {
+    "id": 4803399,
+    "brand": "jbl",
+    "price": 36.39662576687116,
+    "category": "electronics.audio.headphone",
+    "popularity": 163
+  },
+  {
+    "id": 1307054,
+    "brand": "apple",
+    "price": 1344.4300613496932,
+    "category": "computers.notebook",
+    "popularity": 163
+  },
+  {
+    "id": 15100377,
+    "brand": "",
+    "price": 364.3408588957055,
+    "category": "",
+    "popularity": 163
+  },
+  {
+    "id": 1002531,
+    "brand": "apple",
+    "price": 722.4876543209876,
+    "category": "electronics.smartphone",
+    "popularity": 162
+  },
+  {
+    "id": 1004905,
+    "brand": "huawei",
+    "price": 107.02506172839507,
+    "category": "electronics.smartphone",
+    "popularity": 162
+  },
+  {
+    "id": 2601413,
+    "brand": "artel",
+    "price": 152.16555555555556,
+    "category": "",
+    "popularity": 162
+  },
+  {
+    "id": 2800594,
+    "brand": "indesit",
+    "price": 302.29555555555555,
+    "category": "appliances.kitchen.refrigerators",
+    "popularity": 162
+  },
+  {
+    "id": 1005138,
+    "brand": "apple",
+    "price": 1666.7131677018633,
+    "category": "electronics.smartphone",
+    "popularity": 161
+  },
+  {
+    "id": 17300768,
+    "brand": "",
+    "price": 60.16068322981367,
+    "category": "",
+    "popularity": 161
+  },
+  {
+    "id": 1004225,
+    "brand": "apple",
+    "price": 1000.36275,
+    "category": "electronics.smartphone",
+    "popularity": 160
+  },
+  {
+    "id": 3601537,
+    "brand": "samsung",
+    "price": 386.08,
+    "category": "appliances.kitchen.washer",
+    "popularity": 160
+  },
+  {
+    "id": 1003549,
+    "brand": "samsung",
+    "price": 405.47675,
+    "category": "electronics.smartphone",
+    "popularity": 160
+  },
+  {
+    "id": 1005287,
+    "brand": "xiaomi",
+    "price": 261.01856250000003,
+    "category": "electronics.smartphone",
+    "popularity": 160
+  },
+  {
+    "id": 6000004,
+    "brand": "starline",
+    "price": 141.1169375,
+    "category": "auto.accessories.alarm",
+    "popularity": 160
+  },
+  {
+    "id": 3600452,
+    "brand": "indesit",
+    "price": 210.9296855345912,
+    "category": "appliances.kitchen.washer",
+    "popularity": 159
+  },
+  {
+    "id": 3300315,
+    "brand": "redmond",
+    "price": 108.13377358490567,
+    "category": "",
+    "popularity": 159
+  },
+  {
+    "id": 54900004,
+    "brand": "",
+    "price": 77.22,
+    "category": "apparel.costume",
+    "popularity": 159
+  },
+  {
+    "id": 3701387,
+    "brand": "dauscher",
+    "price": 46.47308176100629,
+    "category": "appliances.environment.vacuum",
+    "popularity": 159
+  },
+  {
+    "id": 5700518,
+    "brand": "",
+    "price": 131.26367088607594,
+    "category": "auto.accessories.player",
+    "popularity": 158
+  },
+  {
+    "id": 3800751,
+    "brand": "redmond",
+    "price": 28.82746835443038,
+    "category": "appliances.iron",
+    "popularity": 158
+  },
+  {
+    "id": 1005066,
+    "brand": "xiaomi",
+    "price": 218.69474683544303,
+    "category": "electronics.smartphone",
+    "popularity": 158
+  },
+  {
+    "id": 1004436,
+    "brand": "samsung",
+    "price": 199.2620382165605,
+    "category": "electronics.smartphone",
+    "popularity": 157
+  },
+  {
+    "id": 1305996,
+    "brand": "hp",
+    "price": 393.10426751592354,
+    "category": "computers.notebook",
+    "popularity": 157
+  },
+  {
+    "id": 26400291,
+    "brand": "lucente",
+    "price": 200.26,
+    "category": "",
+    "popularity": 156
+  },
+  {
+    "id": 1005151,
+    "brand": "xiaomi",
+    "price": 410.2530128205128,
+    "category": "electronics.smartphone",
+    "popularity": 156
+  },
+  {
+    "id": 1004496,
+    "brand": "meizu",
+    "price": 69.05858064516129,
+    "category": "electronics.smartphone",
+    "popularity": 155
+  },
+  {
+    "id": 28600032,
+    "brand": "",
+    "price": 265.1,
+    "category": "",
+    "popularity": 154
+  },
+  {
+    "id": 1005243,
+    "brand": "vivo",
+    "price": 452.4457142857143,
+    "category": "electronics.smartphone",
+    "popularity": 154
+  },
+  {
+    "id": 2702628,
+    "brand": "arg",
+    "price": 171.06571428571428,
+    "category": "appliances.kitchen.refrigerators",
+    "popularity": 154
+  },
+  {
+    "id": 3900002,
+    "brand": "ariston",
+    "price": 107.7522077922078,
+    "category": "appliances.environment.water_heater",
+    "popularity": 154
+  },
+  {
+    "id": 19200005,
+    "brand": "huter",
+    "price": 91.77,
+    "category": "construction.tools.saw",
+    "popularity": 154
+  },
+  {
+    "id": 1005009,
+    "brand": "xiaomi",
+    "price": 85.59385620915033,
+    "category": "electronics.smartphone",
+    "popularity": 153
+  },
+  {
+    "id": 3600937,
+    "brand": "samsung",
+    "price": 334.6,
+    "category": "appliances.kitchen.washer",
+    "popularity": 153
+  },
+  {
+    "id": 17200559,
+    "brand": "",
+    "price": 590.7705882352941,
+    "category": "furniture.living_room.sofa",
+    "popularity": 153
+  },
+  {
+    "id": 13200013,
+    "brand": "sv",
+    "price": 141.23513157894735,
+    "category": "furniture.bedroom.bed",
+    "popularity": 152
+  },
+  {
+    "id": 2900090,
+    "brand": "samsung",
+    "price": 102.56460526315789,
+    "category": "appliances.kitchen.microwave",
+    "popularity": 152
+  },
+  {
+    "id": 100009754,
+    "brand": "xiaomi",
+    "price": 224.05184210526315,
+    "category": "electronics.smartphone",
+    "popularity": 152
+  },
+  {
+    "id": 26300089,
+    "brand": "lucente",
+    "price": 271.82,
+    "category": "",
+    "popularity": 151
+  },
+  {
+    "id": 22700076,
+    "brand": "stels",
+    "price": 37.074503311258276,
+    "category": "",
+    "popularity": 151
+  },
+  {
+    "id": 3701056,
+    "brand": "samsung",
+    "price": 69.10602649006623,
+    "category": "appliances.environment.vacuum",
+    "popularity": 151
+  },
+  {
+    "id": 16600209,
+    "brand": "adil",
+    "price": 114.22298013245035,
+    "category": "",
+    "popularity": 151
+  },
+  {
+    "id": 4700630,
+    "brand": "",
+    "price": 30.872317880794704,
+    "category": "auto.accessories.videoregister",
+    "popularity": 151
+  },
+  {
+    "id": 1307582,
+    "brand": "acer",
+    "price": 556.6268874172185,
+    "category": "computers.notebook",
+    "popularity": 151
+  },
+  {
+    "id": 17300355,
+    "brand": "creed",
+    "price": 226.13153333333335,
+    "category": "",
+    "popularity": 150
+  },
+  {
+    "id": 17200728,
+    "brand": "rals",
+    "price": 773.5384666666667,
+    "category": "furniture.living_room.sofa",
+    "popularity": 150
+  },
+  {
+    "id": 2800638,
+    "brand": "",
+    "price": 206.97563758389265,
+    "category": "appliances.kitchen.refrigerators",
+    "popularity": 149
+  },
+  {
+    "id": 12709942,
+    "brand": "yokohama",
+    "price": 72.46288590604027,
+    "category": "",
+    "popularity": 149
+  },
+  {
+    "id": 1005126,
+    "brand": "apple",
+    "price": 1364.028120805369,
+    "category": "electronics.smartphone",
+    "popularity": 149
+  },
+  {
+    "id": 1200957,
+    "brand": "samsung",
+    "price": 106.39939597315437,
+    "category": "electronics.tablet",
+    "popularity": 149
+  },
+  {
+    "id": 15100370,
+    "brand": "",
+    "price": 279.9333783783784,
+    "category": "",
+    "popularity": 148
+  },
+  {
+    "id": 5100576,
+    "brand": "apple",
+    "price": 434.9941216216217,
+    "category": "electronics.clocks",
+    "popularity": 148
+  },
+  {
+    "id": 15100147,
+    "brand": "lider",
+    "price": 437.31,
+    "category": "",
+    "popularity": 148
+  },
+  {
+    "id": 3500046,
+    "brand": "kenwood",
+    "price": 398.5545945945946,
+    "category": "",
+    "popularity": 148
+  },
+  {
+    "id": 1005164,
+    "brand": "xiaomi",
+    "price": 278.460945945946,
+    "category": "electronics.smartphone",
+    "popularity": 148
+  },
+  {
+    "id": 1002542,
+    "brand": "apple",
+    "price": 494.2549324324324,
+    "category": "electronics.smartphone",
+    "popularity": 148
+  },
+  {
+    "id": 12300396,
+    "brand": "",
+    "price": 51.35554054054054,
+    "category": "construction.tools.drill",
+    "popularity": 148
+  },
+  {
+    "id": 1802026,
+    "brand": "samsung",
+    "price": 577.661768707483,
+    "category": "electronics.video.tv",
+    "popularity": 147
+  },
+  {
+    "id": 1005233,
+    "brand": "xiaomi",
+    "price": 148.715306122449,
+    "category": "electronics.smartphone",
+    "popularity": 147
+  },
+  {
+    "id": 3601278,
+    "brand": "bosch",
+    "price": 386.02585034013606,
+    "category": "appliances.kitchen.washer",
+    "popularity": 147
+  },
+  {
+    "id": 1005103,
+    "brand": "xiaomi",
+    "price": 98.05428571428571,
+    "category": "electronics.smartphone",
+    "popularity": 147
+  },
+  {
+    "id": 1005117,
+    "brand": "apple",
+    "price": 1170.5735616438355,
+    "category": "electronics.smartphone",
+    "popularity": 146
+  }
+]

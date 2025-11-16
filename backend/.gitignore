@@ -1,0 +1,33 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+
+# Model files (large - don't commit)
+models/best_model.pt
+models/final_model.pt
+models/*.pt
+models/*.pth
+models/*.ckpt
+
+# Keep these smaller files
+!models/vocabulary.pkl
+!models/all_products.json
+
+# Logs
+*.log
+training.log
+api.log
+nohup.out
+
+# Data files (large)
+../data/*.csv
+../data/*.parquet
+
+# Temp
+*.tmp
+.pytest_cache/
+.mypy_cache/
