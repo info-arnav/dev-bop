@@ -10,6 +10,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { Badge } from "@/components/ui/badge";
+import { MOCK_PRODUCTS } from "@/data/mockProducts";
 
 const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
@@ -35,6 +36,7 @@ export const ProductCatalog = ({ onAddToCart }: ProductCatalogProps) => {
   const [page, setPage] = useState(1);
   const [hasMore, setHasMore] = useState(true);
   const [total, setTotal] = useState(0);
+  const [isOfflineMode, setIsOfflineMode] = useState(false);
   
   const observerTarget = useRef<HTMLDivElement>(null);
 
@@ -52,7 +54,12 @@ export const ProductCatalog = ({ onAddToCart }: ProductCatalogProps) => {
       if (selectedBrand) params.append("brand", selectedBrand);
       if (selectedCategory) params.append("category", selectedCategory);
       
-      const response = await fetch(`${API_BASE_URL}/products?${params}`);
+      const response = await fetch(`${API_BASE_URL}/products?${params}`, {
+        signal: AbortSignal.timeout(5000) // 5 second timeout
+      });
+      
+      if (!response.ok) throw new Error('Backend unavailable');
+      
       const data = await response.json();
       
       if (reset) {
@@ -63,8 +70,50 @@ export const ProductCatalog = ({ onAddToCart }: ProductCatalogProps) => {
       
       setHasMore(data.has_more);
       setTotal(data.total);
+      setIsOfflineMode(false);
     } catch (error) {
-      console.error('Failed to load products:', error);
+      console.warn('Backend unavailable, using mock data:', error);
+      setIsOfflineMode(true);
+      
+      // Use mock products as fallback
+      let filteredProducts = MOCK_PRODUCTS;
+      
+      // Apply search filter
+      if (searchQuery) {
+        const query = searchQuery.toLowerCase();
+        filteredProducts = filteredProducts.filter(p => 
+          p.name.toLowerCase().includes(query) ||
+          p.aisle.toLowerCase().includes(query) ||
+          p.department.toLowerCase().includes(query)
+        );
+      }
+      
+      // Apply department filter
+      if (selectedBrand) {
+        filteredProducts = filteredProducts.filter(p => 
+          p.department === selectedBrand
+        );
+      }
+      
+      // Apply aisle filter
+      if (selectedCategory) {
+        filteredProducts = filteredProducts.filter(p => 
+          p.aisle === selectedCategory
+        );
+      }
+      
+      const mockProducts = filteredProducts.map(p => ({
+        id: p.id,
+        name: p.name,
+        aisle: p.aisle,
+        department: p.department,
+        aisle_id: 0,
+        department_id: 0,
+      }));
+      
+      setProducts(mockProducts);
+      setHasMore(false);
+      setTotal(mockProducts.length);
     } finally {
       setLoading(false);
     }

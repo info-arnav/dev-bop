@@ -3,6 +3,7 @@
  */
 
 import { useState, useCallback } from 'react';
+import { generateMockPredictions, MOCK_PRODUCTS } from '@/data/mockProducts';
 
 export interface CartItem {
   product_id: string;
@@ -29,10 +30,12 @@ export function usePrediction() {
   const [predictions, setPredictions] = useState<PredictionItem[]>([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [isOfflineMode, setIsOfflineMode] = useState(false);
 
   const getPredictions = useCallback(async (cart: CartItem[], topK: number = 10) => {
     if (cart.length === 0) {
       setPredictions([]);
+      setIsOfflineMode(false);
       return;
     }
 
@@ -49,6 +52,7 @@ export function usePrediction() {
           cart,
           top_k: topK,
         }),
+        signal: AbortSignal.timeout(5000), // 5 second timeout
       });
 
       if (!response.ok) {
@@ -57,12 +61,25 @@ export function usePrediction() {
 
       const data: PredictResponse = await response.json();
       setPredictions(data.next_item_predictions);
+      setIsOfflineMode(false);
     } catch (err) {
       const errorMessage = err instanceof Error ? err.message : 'Failed to get predictions';
+      console.warn('Backend unavailable, using mock predictions:', errorMessage);
       setError(errorMessage);
-      console.error('Prediction error:', err);
-      // Fallback to empty predictions on error
-      setPredictions([]);
+      setIsOfflineMode(true);
+      
+      // Generate mock predictions as fallback
+      const cartIds = cart.map(item => parseInt(item.product_id)).filter(id => !isNaN(id));
+      const mockPredictions = generateMockPredictions(cartIds, topK);
+      
+      setPredictions(mockPredictions.map(p => ({
+        product_id: p.id.toString(),
+        probability: p.score,
+        score: p.score,
+        name: p.name,
+        aisle: p.aisle,
+        department: p.department,
+      })));
     } finally {
       setLoading(false);
     }
@@ -70,7 +87,9 @@ export function usePrediction() {
 
   const checkHealth = useCallback(async () => {
     try {
-      const response = await fetch(`${API_BASE_URL}/health`);
+      const response = await fetch(`${API_BASE_URL}/health`, {
+        signal: AbortSignal.timeout(3000)
+      });
       const data = await response.json();
       return data;
     } catch (err) {
@@ -85,5 +104,6 @@ export function usePrediction() {
     error,
     getPredictions,
     checkHealth,
+    isOfflineMode,
   };
 }
